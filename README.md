@@ -11,6 +11,7 @@ To test the toolkit with existing data, use the following links:
 
 - [SocialVisTum Demo with automatic labels](https://martinkirchhoff.github.io/SocialVisTum/visualization-demos/automatic-labels/index.html)
 - [SocialVisTum Demo with manual labels (case study)](https://martinkirchhoff.github.io/SocialVisTum/visualization-demos/manual-labels/index.html)
+- [SocialVisTum Demo with Sentiments](https://archishmanroy.github.io/SocialVisTUM2/visualization-demos/new-features/index2.html)
 
 ## Tool Overview and Functionalities
 
