@@ -4,6 +4,7 @@
       "group": 0,
       "id": "chemical",
       "occurrences": "16208",
+      "subgroup": 1,
       "sentences": [
         {
           "rank": 1,
@@ -99,11 +100,13 @@
         }
       ],
       "sentiment": 1.0
+
     },
     {
       "group": 1,
       "id": "person",
       "occurrences": "5050",
+      "subgroup": 0,
       "sentences": [
         {
           "rank": 1,
@@ -204,6 +207,7 @@
       "group": 2,
       "id": "hypocritical",
       "occurrences": "712",
+      "subgroup": 2,
       "sentences": [
         {
           "rank": 1,
@@ -304,6 +308,7 @@
       "group": 3,
       "id": "relative",
       "occurrences": "1895",
+      "subgroup": 0,
       "sentences": [
         {
           "rank": 1,
@@ -404,6 +409,7 @@
       "group": 4,
       "id": "decrease",
       "occurrences": "5155",
+      "subgroup": 1,
       "sentences": [
         {
           "rank": 1,
@@ -504,6 +510,7 @@
       "group": 5,
       "id": "knowing",
       "occurrences": "16732",
+      "subgroup": 3,
       "sentences": [
         {
           "rank": 1,
@@ -604,6 +611,7 @@
       "group": 6,
       "id": "ill_health",
       "occurrences": "4568",
+      "subgroup": 1,
       "sentences": [
         {
           "rank": 1,
@@ -704,6 +712,7 @@
       "group": 7,
       "id": "inform",
       "occurrences": "1222",
+      "subgroup": 2,
       "sentences": [
         {
           "rank": 1,
@@ -804,6 +813,7 @@
       "group": 8,
       "id": "outgo",
       "occurrences": "3737",
+      "subgroup": 3,
       "sentences": [
         {
           "rank": 1,
@@ -904,6 +914,7 @@
       "group": 9,
       "id": "statement",
       "occurrences": "5819",
+      "subgroup": 0,
       "sentences": [
         {
           "rank": 1,
@@ -1004,6 +1015,7 @@
       "group": 10,
       "id": "plant",
       "occurrences": "2045",
+      "subgroup": 3,
       "sentences": [
         {
           "rank": 1,
@@ -1104,6 +1116,7 @@
       "group": 11,
       "id": "content",
       "occurrences": "1293",
+      "subgroup": 2,
       "sentences": [
         {
           "rank": 1,
@@ -1204,6 +1217,7 @@
       "group": 12,
       "id": "weekday",
       "occurrences": "1363",
+      "subgroup": 2,
       "sentences": [
         {
           "rank": 1,
@@ -1304,6 +1318,7 @@
       "group": 13,
       "id": "recently",
       "occurrences": "176",
+      "subgroup": 1,
       "sentences": [
         {
           "rank": 1,
@@ -1404,6 +1419,7 @@
       "group": 14,
       "id": "pesticide",
       "occurrences": "5355",
+      "subgroup": 3,
       "sentences": [
         {
           "rank": 1,
@@ -1504,6 +1520,7 @@
       "group": 15,
       "id": "destroy",
       "occurrences": "806",
+      "subgroup": 3,
       "sentences": [
         {
           "rank": 1,
@@ -1604,6 +1621,7 @@
       "group": 16,
       "id": "material",
       "occurrences": "224",
+      "subgroup": 0,
       "sentences": [
         {
           "rank": 1,
@@ -1704,6 +1722,7 @@
       "group": 17,
       "id": "food",
       "occurrences": "8854",
+      "subgroup": 1,
       "sentences": [
         {
           "rank": 1,
@@ -1804,6 +1823,7 @@
       "group": 18,
       "id": "duty",
       "occurrences": "1594",
+      "subgroup": 0,
       "sentences": [
         {
           "rank": 1,
@@ -1904,6 +1924,7 @@
       "group": 19,
       "id": "decade",
       "occurrences": "1130",
+      "subgroup": 0,
       "sentences": [
         {
           "rank": 1,
