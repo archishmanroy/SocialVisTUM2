@@ -99,7 +99,7 @@
           "word": "product"
         }
       ],
-      "sentiment": 1.0
+      "sentiment": 0.0
 
     },
     {
@@ -201,7 +201,7 @@
           "word": "ncr"
         }
       ],
-      "sentiment": 0.0
+      "sentiment": 1.0
     },
     {
       "group": 2,
