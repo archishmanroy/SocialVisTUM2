@@ -1,0 +1,4516 @@
+{
+  "nodes": [
+    {
+      "distances": [
+        {
+          "distance": "0.03262961",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.045028057",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.06308174",
+          "word": "heck"
+        },
+        {
+          "distance": "0.056884587",
+          "word": "boost"
+        },
+        {
+          "distance": "0.055918567",
+          "word": "fun"
+        },
+        {
+          "distance": "0.049932826",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.04477327",
+          "word": "labled"
+        },
+        {
+          "distance": "0.05233304",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.05761508",
+          "word": "specified"
+        },
+        {
+          "distance": "0.048370276",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.05169419",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.03727896",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.03965263",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.054342628",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.046605587",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.05001607",
+          "word": "onto"
+        },
+        {
+          "distance": "0.055982832",
+          "word": "butter"
+        },
+        {
+          "distance": "0.043897837",
+          "word": "advise"
+        },
+        {
+          "distance": "0.04430704",
+          "word": "owned"
+        }
+      ],
+      "group": 0,
+      "id": "buy",
+      "occurrences": "16713",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "I am more ashamed that our country unlike others are not taking steps to prevent the use of harmful ingredients in our food."
+        },
+        {
+          "rank": 2,
+          "sentence": "As I am citizen of Chhattisgarh then Adoption And Certification Of Organic Farming \"Chhattisgarh\"is required for that."
+        },
+        {
+          "rank": 3,
+          "sentence": "And I buy Costco's Kirkland brand organic milk."
+        },
+        {
+          "rank": 4,
+          "sentence": "GMO foods are just as \"natural\" as any other food."
+        },
+        {
+          "rank": 5,
+          "sentence": "The other day a friend told my husband that \"this organic thing is a fad\" and he \" cannot wait until it goes away.\""
+        },
+        {
+          "rank": 6,
+          "sentence": "If you bombard an organic apple with UV radiation, does that make it less organic?"
+        },
+        {
+          "rank": 7,
+          "sentence": "To add to #6, organic is about: -the health of the people who work in the plants producing agrichemicals, -the people who work in the fields where the agrichemicals are sprayed (Rob: women in the Midwest who drink well water in heavy corn producing areas have higher risks of miscarriage and birth defects), -the children who go to school downwind of those heavily sprayed strawberry fields, -the (disappearing) ozone that is vital to preventing skin disease, -the frogs/fish/birds/small mammals that live around us, -the diversity and ability of our food crops/animals to survive disease, -healthy, productive soil that can withstand traumatic events such as droughts without major losses because producers have developed an organic matter-rich soil bound and aerated by a diversity of biomass, be it fungi, bacteria, protozoa, insects, worms, etc."
+        },
+        {
+          "rank": 8,
+          "sentence": "What about eating foods with GMO pesticides"
+        },
+        {
+          "rank": 9,
+          "sentence": "Whole foods is not just for vegans or calories counters."
+        },
+        {
+          "rank": 10,
+          "sentence": "Organic manures \"might contain molds?\""
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.66",
+          "word": "buy"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.66",
+          "word": "gmo"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.64",
+          "word": "organic"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.63",
+          "word": "produce"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.6",
+          "word": "pesticide"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.6",
+          "word": "non"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.59",
+          "word": "food"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.57",
+          "word": "grown"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.57",
+          "word": "product"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.57",
+          "word": "also"
+        }
+      ],
+      "sentiment": 0.38847083327641785
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.07700076",
+          "word": "buy"
+        },
+        {
+          "distance": "0.048504185",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.052962903",
+          "word": "heck"
+        },
+        {
+          "distance": "0.06626721",
+          "word": "boost"
+        },
+        {
+          "distance": "0.04833256",
+          "word": "fun"
+        },
+        {
+          "distance": "0.04820771",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.03557078",
+          "word": "labled"
+        },
+        {
+          "distance": "0.056086686",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.06329626",
+          "word": "specified"
+        },
+        {
+          "distance": "0.04878247",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.04394651",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.033988778",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.037877426",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.0670233",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.054554462",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.046378978",
+          "word": "onto"
+        },
+        {
+          "distance": "0.04588756",
+          "word": "butter"
+        },
+        {
+          "distance": "0.047561865",
+          "word": "advise"
+        },
+        {
+          "distance": "0.047031414",
+          "word": "owned"
+        }
+      ],
+      "group": 1,
+      "id": "monsantos",
+      "occurrences": "3201",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "And if they are not then are they as nutritional as organic produce?..I trust your rational opinion."
+        },
+        {
+          "rank": 2,
+          "sentence": "Under current FDA regulations we do not have that choice when it comes to GE ingredients in the foods we purchase and feed our families."
+        },
+        {
+          "rank": 3,
+          "sentence": "I wonder though when they cannot get any \"organic\" food, will they accept whatever they can get over starvation?"
+        },
+        {
+          "rank": 4,
+          "sentence": "\"Adults are often reluctant to associate their diet with wasting or oedema, and may be reluctant to eat anything except traditional foods, even in famine conditions."
+        },
+        {
+          "rank": 5,
+          "sentence": "Just drink organic and in moderation.you will be fine no matter which one."
+        },
+        {
+          "rank": 6,
+          "sentence": "I shop regularly at Whole Foods because the supermarket options in Manhattan generally range from gross to horri for your information ng in terms of quality, price, selection and service, while at Whole Foods EVERY employee I meet there is pleasant, helpful, and most important to me, intelligent and efficient at their jobs."
+        },
+        {
+          "rank": 7,
+          "sentence": "Organic farms do not refuse antibiotics to sick animals, they just do not do routine \"preventative\" antibiotics, and have less need for them because animals are kept in better conditions."
+        },
+        {
+          "rank": 8,
+          "sentence": "So you are safe in assuming that it is all \"organic\"."
+        },
+        {
+          "rank": 9,
+          "sentence": "South Africa has been growing GM crops since 1999 and consumers have been largely unaware that their staple food, maize, has been genetically modified."
+        },
+        {
+          "rank": 10,
+          "sentence": "When did foods w/o genetically modified DNA or grown w/ poisons become a \"fad\"?"
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.26",
+          "word": "monsantos"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.25",
+          "word": "ncr"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.24",
+          "word": "earthfare"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.24",
+          "word": "med"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.24",
+          "word": "firefly"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.23",
+          "word": "homepage"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.23",
+          "word": "aka"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.23",
+          "word": "apps"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.23",
+          "word": "whitewave"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.23",
+          "word": "gee"
+        }
+      ],
+      "sentiment": 0.6552575753968326
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.053941716",
+          "word": "buy"
+        },
+        {
+          "distance": "0.046619006",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.058590643",
+          "word": "heck"
+        },
+        {
+          "distance": "0.05596034",
+          "word": "boost"
+        },
+        {
+          "distance": "0.059451245",
+          "word": "fun"
+        },
+        {
+          "distance": "0.08079644",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.04699425",
+          "word": "labled"
+        },
+        {
+          "distance": "0.04164242",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.05422071",
+          "word": "specified"
+        },
+        {
+          "distance": "0.038533967",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.05510731",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.049040847",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.04952628",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.051991742",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.046741772",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.029294936",
+          "word": "onto"
+        },
+        {
+          "distance": "0.043281578",
+          "word": "butter"
+        },
+        {
+          "distance": "0.0543057",
+          "word": "advise"
+        },
+        {
+          "distance": "0.032711357",
+          "word": "owned"
+        }
+      ],
+      "group": 2,
+      "id": "hypocritical",
+      "occurrences": "610",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "I have known this (organic vs non-GMO labeling) for a long time now and would tell my friends, but they were not really understanding."
+        },
+        {
+          "rank": 2,
+          "sentence": "I agree adding organic matter to the soil is best for plant health."
+        },
+        {
+          "rank": 3,
+          "sentence": "So if you grow your own food keep your organic seeds to replant next season and share with other organic gardeners."
+        },
+        {
+          "rank": 4,
+          "sentence": "An article on food myths should not propagate the commonly held myth that GMO foods are somehow less healthy than non GMO foods (referencing \"Much of the conventional corn in the United States grows from genetically modified seeds, so buying organic - always a good idea in the vegetable world - is especially recommended.\")"
+        },
+        {
+          "rank": 5,
+          "sentence": "Given a choice between GMO's or engineered food, hybrids or heirlooms???"
+        },
+        {
+          "rank": 6,
+          "sentence": "using organic methods the crop is organic but not heirloom (seeds harvested from the plants may revert to one of the original types that were crossed) Hybrids are cross-pollinated within a species."
+        },
+        {
+          "rank": 7,
+          "sentence": "There are actually a lot of modern pest control techniques that adhere to organic principles that could also be seen as an *improvement* on traditional farming techniques."
+        },
+        {
+          "rank": 8,
+          "sentence": "We changed to an organic Paleo diet and avoid most big food suppliers and GMO's."
+        },
+        {
+          "rank": 9,
+          "sentence": "I have been buying Organics at Vons(Safeway) for a while, thinking that I was getting a good deal...that they were on consumers' side and because they are close to where I live....but I will stop."
+        },
+        {
+          "rank": 10,
+          "sentence": "How about not laser-focusing on the evil monsanto, and look around at all the poisons we are allowing industry, and our reliance on fossil fuels, to dump into our environment and food?"
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.42",
+          "word": "hypocritical"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.39",
+          "word": "ignorant"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.36",
+          "word": "illogical"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.36",
+          "word": "unrealistic"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.35",
+          "word": "idiotic"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.35",
+          "word": "nonsensical"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.35",
+          "word": "equate"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.35",
+          "word": "cynical"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.35",
+          "word": "stupid"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.34",
+          "word": "simplistic"
+        }
+      ],
+      "sentiment": 0.806226375189594
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.062447704",
+          "word": "buy"
+        },
+        {
+          "distance": "0.06481693",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.051838078",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.04902857",
+          "word": "boost"
+        },
+        {
+          "distance": "0.04965849",
+          "word": "fun"
+        },
+        {
+          "distance": "0.03827726",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.052354354",
+          "word": "labled"
+        },
+        {
+          "distance": "0.033617664",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.04738979",
+          "word": "specified"
+        },
+        {
+          "distance": "0.047287207",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.05881607",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.03911065",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.039336156",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.053486757",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.048782896",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.048539013",
+          "word": "onto"
+        },
+        {
+          "distance": "0.0550706",
+          "word": "butter"
+        },
+        {
+          "distance": "0.045734998",
+          "word": "advise"
+        },
+        {
+          "distance": "0.052018467",
+          "word": "owned"
+        }
+      ],
+      "group": 3,
+      "id": "heck",
+      "occurrences": "5273",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Much cheaper and I know the people who grow and raise my food."
+        },
+        {
+          "rank": 2,
+          "sentence": "In fact, hula hoops are prob'ly more tasty than gluten-free food."
+        },
+        {
+          "rank": 3,
+          "sentence": "Unfortunately, it is \"easier\" for most Americans to just blindly purchase foods and assume they are safe based upon product marketing or FDA approval."
+        },
+        {
+          "rank": 4,
+          "sentence": "It is completely unscientific to try to say an organism is not organic based on some slightly changed DNA."
+        },
+        {
+          "rank": 5,
+          "sentence": "And yet, other than scare tactics, there is no evidence that anyone has gotten any ailments from \"chemicals\" from non-organic food."
+        },
+        {
+          "rank": 6,
+          "sentence": "Organic meat, poultry eggs, and dairy products come from animals that are given no antibiotics or growth hormones.\" (source: USDA.gov, How does USDA define the term organic?)"
+        },
+        {
+          "rank": 7,
+          "sentence": "THEY ARE POISONING YOUR FOOD SUPPLY!!!"
+        },
+        {
+          "rank": 8,
+          "sentence": "Fuck organic."
+        },
+        {
+          "rank": 9,
+          "sentence": "Organic is not necessarily \"increasing productivity\", it is re-institutionalizing biodiversity, environmentally conscious farming practice, small business and local growth in the community."
+        },
+        {
+          "rank": 10,
+          "sentence": "But A recent study examined that organic food is not nutritious."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.3",
+          "word": "heck"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.28",
+          "word": "yesterday"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.28",
+          "word": "sam"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.28",
+          "word": "buck"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.27",
+          "word": "shirtliffe"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.27",
+          "word": "hey"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.27",
+          "word": "dad"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.27",
+          "word": "asks"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.26",
+          "word": "bob"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.26",
+          "word": "max"
+        }
+      ],
+      "sentiment": 0.09251337331927183
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.061924033",
+          "word": "buy"
+        },
+        {
+          "distance": "0.03794954",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.042410437",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.05342863",
+          "word": "heck"
+        },
+        {
+          "distance": "0.066485144",
+          "word": "fun"
+        },
+        {
+          "distance": "0.05878295",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.029339576",
+          "word": "labled"
+        },
+        {
+          "distance": "0.040866785",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.05369098",
+          "word": "specified"
+        },
+        {
+          "distance": "0.042868707",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.04537942",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.042490188",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.055858742",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.056402445",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.05301063",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.046462223",
+          "word": "onto"
+        },
+        {
+          "distance": "0.052557364",
+          "word": "butter"
+        },
+        {
+          "distance": "0.059767492",
+          "word": "advise"
+        },
+        {
+          "distance": "0.046949007",
+          "word": "owned"
+        }
+      ],
+      "group": 4,
+      "id": "boost",
+      "occurrences": "5238",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "I am rather upset at this video and its attack on ALL Whole Foods stores."
+        },
+        {
+          "rank": 2,
+          "sentence": "People suggest to spray chemicals for vegetables and fruits but is poison and it is not organic vegetables."
+        },
+        {
+          "rank": 3,
+          "sentence": "Organic and processed foods are not mutually exclusive."
+        },
+        {
+          "rank": 4,
+          "sentence": "Plants CAN have all the mineral content of soil grown plants, they CAN be organic, and you are apparently completely overlooking the fact that soil grown organic plants very often do not have the full complement of minerals and microbes they should have because of the environment."
+        },
+        {
+          "rank": 5,
+          "sentence": "Not everyone can raise their own food."
+        },
+        {
+          "rank": 6,
+          "sentence": "Buy organic, local, and humane."
+        },
+        {
+          "rank": 7,
+          "sentence": "Wanna bet everything served in their dining room is organic?"
+        },
+        {
+          "rank": 8,
+          "sentence": "Nice attempt at stringing together a list of articles and organizations in an attempt to report that disposables are more eco friendly then organic cotton cloth diapers.... and no, I will not buy disposables to provide jobs through P and amp;G either... do not they sell enough Tide and toilet paper?"
+        },
+        {
+          "rank": 9,
+          "sentence": "This does not necessarily mean better for the environment though, as \"conventional\" food can be produced more effectively using less resources."
+        },
+        {
+          "rank": 10,
+          "sentence": "My other concern is things being organic, regardless of salt and sugar content."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.48",
+          "word": "boost"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.48",
+          "word": "boosting"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.48",
+          "word": "offset"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.47",
+          "word": "skyrocketing"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.47",
+          "word": "slowing"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.46",
+          "word": "increasing"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.45",
+          "word": "weakening"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.45",
+          "word": "worsening"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.45",
+          "word": "profitability"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.44",
+          "word": "decreasing"
+        }
+      ],
+      "sentiment": 0.23816840696881383
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.061974198",
+          "word": "buy"
+        },
+        {
+          "distance": "0.033458613",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.057597436",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.059269954",
+          "word": "heck"
+        },
+        {
+          "distance": "0.051154",
+          "word": "boost"
+        },
+        {
+          "distance": "0.09670068",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.03279943",
+          "word": "labled"
+        },
+        {
+          "distance": "0.055133477",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.027232008",
+          "word": "specified"
+        },
+        {
+          "distance": "0.048023846",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.042954817",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.035523605",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.0315473",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.036096632",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.073797725",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.043001175",
+          "word": "onto"
+        },
+        {
+          "distance": "0.050591785",
+          "word": "butter"
+        },
+        {
+          "distance": "0.036974363",
+          "word": "advise"
+        },
+        {
+          "distance": "0.05320449",
+          "word": "owned"
+        }
+      ],
+      "group": 5,
+      "id": "fun",
+      "occurrences": "13803",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "I do not trust any organic standards from any grocery company."
+        },
+        {
+          "rank": 2,
+          "sentence": "growing your own food is like printing your own money."
+        },
+        {
+          "rank": 3,
+          "sentence": "I purchase organic foods because of the reduced exposure to pesticides, herbicides, and gmo foods."
+        },
+        {
+          "rank": 4,
+          "sentence": "Overall, processing of food is a net positive as far as making the food less toxic and the nutrients in the food more accessible."
+        },
+        {
+          "rank": 5,
+          "sentence": "Something down the food chain has to eat what you put in and on your soil."
+        },
+        {
+          "rank": 6,
+          "sentence": "And yes my brothers and sisters, we should start looking for organic foods now near our surroundings so that we can buy them and also encourage others to use organic foods."
+        },
+        {
+          "rank": 7,
+          "sentence": "Growing food is personally rewarding."
+        },
+        {
+          "rank": 8,
+          "sentence": "2nd, Why on earth is it ever recommended to drink Organic Milk or Eat Organic or Grass-Fed Meat, Eggs, Fish or Beef?"
+        },
+        {
+          "rank": 9,
+          "sentence": "From the World Health Organization: >> GM foods currently available on the international market have passed safety assessments and are not likely to present risks for human health."
+        },
+        {
+          "rank": 10,
+          "sentence": "Dean's Beans organic coffee is the bomb!"
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.52",
+          "word": "fun"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.51",
+          "word": "forget"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.51",
+          "word": "liked"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.5",
+          "word": "frankly"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.5",
+          "word": "surely"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.5",
+          "word": "appreciate"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.5",
+          "word": "obviously"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.5",
+          "word": "somebody"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.5",
+          "word": "genuinely"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.49",
+          "word": "wonderful"
+        }
+      ],
+      "sentiment": 0.9593706087853713
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.05738692",
+          "word": "buy"
+        },
+        {
+          "distance": "0.026798118",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.057120964",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.059327852",
+          "word": "heck"
+        },
+        {
+          "distance": "0.049963776",
+          "word": "boost"
+        },
+        {
+          "distance": "0.064590335",
+          "word": "fun"
+        },
+        {
+          "distance": "0.038542334",
+          "word": "labled"
+        },
+        {
+          "distance": "0.046729356",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.0718873",
+          "word": "specified"
+        },
+        {
+          "distance": "0.027997594",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.054263826",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.052448545",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.038424257",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.057021827",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.059627637",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.040399767",
+          "word": "onto"
+        },
+        {
+          "distance": "0.057929363",
+          "word": "butter"
+        },
+        {
+          "distance": "0.041304257",
+          "word": "advise"
+        },
+        {
+          "distance": "0.045956258",
+          "word": "owned"
+        }
+      ],
+      "group": 6,
+      "id": "diagnosed",
+      "occurrences": "3440",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "There is no evolutionary reason to predict that our tastes would adapt to really, really love a particular food."
+        },
+        {
+          "rank": 2,
+          "sentence": "Organic products at ATG Trading Group Inc."
+        },
+        {
+          "rank": 3,
+          "sentence": "Whole Foods sells lots of garbage food."
+        },
+        {
+          "rank": 4,
+          "sentence": "The food producer has to be certified by the national agency that is in charge of the audit and certification process."
+        },
+        {
+          "rank": 5,
+          "sentence": "How could a conventionally grown GMO fruit contain the same nutritional content as an Organically grown heirloom fruit?"
+        },
+        {
+          "rank": 6,
+          "sentence": "My comment was relating to your apparent confusion over the term 'Dissolved Organic Nitrogen' in the paper you linked to - it has nothing to do with organic agriculture."
+        },
+        {
+          "rank": 7,
+          "sentence": "I guarantee that many organic free range farmers would at some time resort to medication of some kind."
+        },
+        {
+          "rank": 8,
+          "sentence": "For more details, see Alex K. Chen's answer to Is organic food a better option?"
+        },
+        {
+          "rank": 9,
+          "sentence": "I, for one, do not want to eat food doused in Roundup, and there has definitely been an increased use of Roundup since the introduction of Roundup resistant crops."
+        },
+        {
+          "rank": 10,
+          "sentence": "So no, its not a better growing environment and they are clearly not healhier plants as the yields per acre for Organic routinely run 30% or less than the same Conventional crop, which is the main reason you have to pay more for Organic, the yields per acre tend to be pretty poor, and the cost of inputs pretty high."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.53",
+          "word": "diagnosed"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.5",
+          "word": "obese"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.5",
+          "word": "cancer"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.49",
+          "word": "infected"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.48",
+          "word": "asthma"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.47",
+          "word": "diabetes"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.47",
+          "word": "medication"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.47",
+          "word": "infection"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.47",
+          "word": "obesity"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.46",
+          "word": "illness"
+        }
+      ],
+      "sentiment": 0.8578434833958914
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.08109536",
+          "word": "buy"
+        },
+        {
+          "distance": "0.0537272",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.05953021",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.028158376",
+          "word": "heck"
+        },
+        {
+          "distance": "0.045560934",
+          "word": "boost"
+        },
+        {
+          "distance": "0.036026392",
+          "word": "fun"
+        },
+        {
+          "distance": "0.066775054",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.03702767",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.050759763",
+          "word": "specified"
+        },
+        {
+          "distance": "0.07011464",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.032237004",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.057148196",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.046562865",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.06869185",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.044745862",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.035059568",
+          "word": "onto"
+        },
+        {
+          "distance": "0.08529699",
+          "word": "butter"
+        },
+        {
+          "distance": "0.03491822",
+          "word": "advise"
+        },
+        {
+          "distance": "0.025117926",
+          "word": "owned"
+        }
+      ],
+      "group": 7,
+      "id": "labled",
+      "occurrences": "3844",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "local is not always organic either."
+        },
+        {
+          "rank": 2,
+          "sentence": "I do not know if this is true or not and it is something that I am interested in learning more about - studying up on raw food for dogs is not easy, because there is so much information out there - it is not clear which is correct and which is incorrect."
+        },
+        {
+          "rank": 3,
+          "sentence": "My husband's family has grown organic cotton for almost 25 years."
+        },
+        {
+          "rank": 4,
+          "sentence": "For example, in spite of public perceptions, there are really no well designed scientific studies showing any health benefits associated with eating organic rather than conventionally raised foods."
+        },
+        {
+          "rank": 5,
+          "sentence": "Besides that organic food is safer so have a organic meal.!!!"
+        },
+        {
+          "rank": 6,
+          "sentence": "This article is going to turn into \"how millennials are destroying the environment with their organic food\" just you watch and see."
+        },
+        {
+          "rank": 7,
+          "sentence": "I am from Austin and used to shop at the old Whole Foods on Lamar Blvd."
+        },
+        {
+          "rank": 8,
+          "sentence": "Glyphosate and the above do not belong in our foods."
+        },
+        {
+          "rank": 9,
+          "sentence": "I would ask them, \"are you organic?"
+        },
+        {
+          "rank": 10,
+          "sentence": "They say, if you are agains chemicals, you eat organic, but if you are more for environment, eat factory farm animals....if you are for health and environment, going vegan is the best way."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.41",
+          "word": "labled"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.4",
+          "word": "numi"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.38",
+          "word": "biomimicry"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.37",
+          "word": "fearmongering"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.37",
+          "word": "biodynamics"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.36",
+          "word": "superfoods"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.36",
+          "word": "rotenone"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.36",
+          "word": "atleast"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.36",
+          "word": "certifier"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.36",
+          "word": "cafo"
+        }
+      ],
+      "sentiment": 0.4813035212642792
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.060560763",
+          "word": "buy"
+        },
+        {
+          "distance": "0.03982757",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.020093521",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.041677866",
+          "word": "heck"
+        },
+        {
+          "distance": "0.0490699",
+          "word": "boost"
+        },
+        {
+          "distance": "0.048710547",
+          "word": "fun"
+        },
+        {
+          "distance": "0.05101308",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.034335233",
+          "word": "labled"
+        },
+        {
+          "distance": "0.05357651",
+          "word": "specified"
+        },
+        {
+          "distance": "0.06785845",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.047705103",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.0788112",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.046610437",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.04198562",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.095776305",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.044393238",
+          "word": "onto"
+        },
+        {
+          "distance": "0.048048314",
+          "word": "butter"
+        },
+        {
+          "distance": "0.025186779",
+          "word": "advise"
+        },
+        {
+          "distance": "0.056763887",
+          "word": "owned"
+        }
+      ],
+      "group": 8,
+      "id": "<num>",
+      "occurrences": "2891",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Tthe headline alone \"Stanford Scientists Cast Doubt on Advantages of Organic Meat and Produce\" is irresponsible and bad journalism."
+        },
+        {
+          "rank": 2,
+          "sentence": "S he is been known to tell people to \"lie to the servers\" regarding food allergies."
+        },
+        {
+          "rank": 3,
+          "sentence": "As mentioned I actually careless about the \"organic\" part."
+        },
+        {
+          "rank": 4,
+          "sentence": "Hoo boy...Food dogmatism opens up so many new ways to point fingers and shout \"Bad Mommy!\""
+        },
+        {
+          "rank": 5,
+          "sentence": "I do not ever eat there, and try not to eat fast food very often."
+        },
+        {
+          "rank": 6,
+          "sentence": "We had 2.5 million people die in the U.S. in 2011, and of those, about one in a thousand died of food-borne illness."
+        },
+        {
+          "rank": 7,
+          "sentence": "Foods Labeled?<br />Pretty simple answer since I raise good food."
+        },
+        {
+          "rank": 8,
+          "sentence": "There was no hidden agenda to \"debunk\" organic foods."
+        },
+        {
+          "rank": 9,
+          "sentence": "One day, I hope to have my bean and bacon soup, ORGANICALLY, by a completely transparent corporation."
+        },
+        {
+          "rank": 10,
+          "sentence": "Anyone who believes that organic poultry is an unnecessary luxury may wish to read an article the New York Times Arsenic in Our Chicken?"
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.42",
+          "word": "<num>"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.35",
+          "word": "expenditure"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.34",
+          "word": "average"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.32",
+          "word": "yearly"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.31",
+          "word": "budget"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.31",
+          "word": "salary"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.31",
+          "word": "per"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.3",
+          "word": "hefty"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.3",
+          "word": "monthly"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.29",
+          "word": "lower"
+        }
+      ],
+      "sentiment": 0.07636722250535975
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.054109715",
+          "word": "buy"
+        },
+        {
+          "distance": "0.038727842",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.036365844",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.060915537",
+          "word": "heck"
+        },
+        {
+          "distance": "0.054818098",
+          "word": "boost"
+        },
+        {
+          "distance": "0.06702611",
+          "word": "fun"
+        },
+        {
+          "distance": "0.04870387",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.028147666",
+          "word": "labled"
+        },
+        {
+          "distance": "0.04847219",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.035262723",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.047130086",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.06320701",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.05057931",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.05295584",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.059941325",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.048169684",
+          "word": "onto"
+        },
+        {
+          "distance": "0.049440827",
+          "word": "butter"
+        },
+        {
+          "distance": "0.0502412",
+          "word": "advise"
+        },
+        {
+          "distance": "0.05074234",
+          "word": "owned"
+        }
+      ],
+      "group": 9,
+      "id": "specified",
+      "occurrences": "5640",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "I am sure the food industry in your country is completely corruption free, Russian."
+        },
+        {
+          "rank": 2,
+          "sentence": "Online See organic watchdogs at: Cornucopia.org"
+        },
+        {
+          "rank": 3,
+          "sentence": "If it were not for such advanced food technologies, we would have for more people dying of starvation than we have now."
+        },
+        {
+          "rank": 4,
+          "sentence": "They were now on an even playing field on store shelves with more legitimate companies like Organic Valley which was a co-operative of smaller farms that were operated much more like what we all imagine an organic dairy farm to look like."
+        },
+        {
+          "rank": 5,
+          "sentence": "Well, sure, yeah, but ... ... those European countries are run by Socialist, and who knows, maybe the baby food causes that."
+        },
+        {
+          "rank": 6,
+          "sentence": "Avoid corn, soy, canola, alfalfa, sugar beets that is not labeled organic, and anything that could have eaten these (anything with a mouth)."
+        },
+        {
+          "rank": 7,
+          "sentence": "All of the above,PLUS convenience of having my organic favorites readily available ( in summer, anyway)"
+        },
+        {
+          "rank": 8,
+          "sentence": "And I do not think the organic system is perfect, but I have seen it make a difference."
+        },
+        {
+          "rank": 9,
+          "sentence": "Your article also starts out with a completely ignorant statement from from clueless person which you you never wrap up sounds like you really need to educate your friends first on the difference between organic and non-organic food."
+        },
+        {
+          "rank": 10,
+          "sentence": "Some crops do have detectable levels, but below permissible levels (the safety margin is quite large too) -- but there is still a chance that non-organic produce carries some level of pesticides that you can ingest if you do not rinse them first."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.47",
+          "word": "specified"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.45",
+          "word": "corresponding"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.45",
+          "word": "identical"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.45",
+          "word": "variable"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.45",
+          "word": "description"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.45",
+          "word": "analogous"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.44",
+          "word": "differs"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.44",
+          "word": "depending"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.43",
+          "word": "measurement"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.42",
+          "word": "comparable"
+        }
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.06476692",
+          "word": "buy"
+        },
+        {
+          "distance": "0.0345118",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.04225703",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.05429626",
+          "word": "heck"
+        },
+        {
+          "distance": "0.04891484",
+          "word": "boost"
+        },
+        {
+          "distance": "0.06870611",
+          "word": "fun"
+        },
+        {
+          "distance": "0.07170078",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.041175786",
+          "word": "labled"
+        },
+        {
+          "distance": "0.03849733",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.04596695",
+          "word": "specified"
+        },
+        {
+          "distance": "0.05587474",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.04001008",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.03786111",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.04293066",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.048560053",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.046816133",
+          "word": "onto"
+        },
+        {
+          "distance": "0.05387415",
+          "word": "butter"
+        },
+        {
+          "distance": "0.05676092",
+          "word": "advise"
+        },
+        {
+          "distance": "0.051247917",
+          "word": "owned"
+        }
+      ],
+      "group": 10,
+      "id": "pasture",
+      "occurrences": "2490",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "They cannot do that though, because industrial/chemical based farmers are so heavily subsidised by western governments (controlled by big oil/pharma) that they can afford to sell their meat for pennies compared to grass-fed/organic (who inversely have cost added to their products via expensive certification requirements)"
+        },
+        {
+          "rank": 2,
+          "sentence": "Again, I am not arguing for monoculture organic farming versus monoculture conventional."
+        },
+        {
+          "rank": 3,
+          "sentence": "It is Naples' own organic oasis!"
+        },
+        {
+          "rank": 4,
+          "sentence": "Processed foods are creating a nation of sick people and a lost generation of children raised on these unhealthy foods."
+        },
+        {
+          "rank": 5,
+          "sentence": "What we want is for hydroponics, aquaponics and aeroponics to embrace organic farming practices while using a non-natural system to increase production and sustainability."
+        },
+        {
+          "rank": 6,
+          "sentence": "the gmo foods are corn, soy, canola and cotton."
+        },
+        {
+          "rank": 7,
+          "sentence": "In northerly places it can mean a great deal of difference in the price and quality of food."
+        },
+        {
+          "rank": 8,
+          "sentence": "The only things I think are really organic come from my backyard."
+        },
+        {
+          "rank": 9,
+          "sentence": "Most Americans will have to import their food for at least 3 months out of the year, and often more, unless they go to extraordinary efforts to preserve foods (which means not eating fresh foods for months at a time)."
+        },
+        {
+          "rank": 10,
+          "sentence": "When I see USDA Organic, I used to run."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.44",
+          "word": "pasture"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.42",
+          "word": "graze"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.42",
+          "word": "forage"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.42",
+          "word": "vegetation"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.39",
+          "word": "harvested"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.38",
+          "word": "arable"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.38",
+          "word": "harvesting"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.38",
+          "word": "nourish"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.37",
+          "word": "algae"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.37",
+          "word": "grassland"
+        }
+      ],
+      "sentiment": 0.4787051205860189
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.05901816",
+          "word": "buy"
+        },
+        {
+          "distance": "0.04055359",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.05377094",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.045567278",
+          "word": "heck"
+        },
+        {
+          "distance": "0.05685138",
+          "word": "boost"
+        },
+        {
+          "distance": "0.050665762",
+          "word": "fun"
+        },
+        {
+          "distance": "0.033447582",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.037160013",
+          "word": "labled"
+        },
+        {
+          "distance": "0.057897396",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.04649658",
+          "word": "specified"
+        },
+        {
+          "distance": "0.049665198",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.040557563",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.049294975",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.05569202",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.05787409",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.035030115",
+          "word": "onto"
+        },
+        {
+          "distance": "0.045530237",
+          "word": "butter"
+        },
+        {
+          "distance": "0.06914538",
+          "word": "advise"
+        },
+        {
+          "distance": "0.054834582",
+          "word": "owned"
+        }
+      ],
+      "group": 11,
+      "id": "ecology",
+      "occurrences": "1644",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Why are organic brands selling out?"
+        },
+        {
+          "rank": 2,
+          "sentence": "GO ORGANIC ALL THE WAY and TAKE CONTROL."
+        },
+        {
+          "rank": 3,
+          "sentence": "it is Monsantoian economics.<br /><br />There appears to be no consensus as to whether genetically modified food is dangerous for those who consume it."
+        },
+        {
+          "rank": 4,
+          "sentence": "People know they are buying organic, why do you care if they do?"
+        },
+        {
+          "rank": 5,
+          "sentence": "First off organic and sustainable are not synonyms."
+        },
+        {
+          "rank": 6,
+          "sentence": "Locally-grown foods are making a comeback, and it is about time."
+        },
+        {
+          "rank": 7,
+          "sentence": "Because of its systematic rejection of many advanced methods and technologies, organic farming produces far less food per unit of land and water than conventional ones."
+        },
+        {
+          "rank": 8,
+          "sentence": ">Are you trying to say that land that would have been saved by using non-organic rather than organic livestock-raising methods always ends up turning into subdivisions?"
+        },
+        {
+          "rank": 9,
+          "sentence": "And the funny thing is that i have seen \"organic\" canola oil in various stores it is a shame"
+        },
+        {
+          "rank": 10,
+          "sentence": "there is nothing keeping a cloud of pesticide mist from being carried with the breeze over from Farmer Bob Plant's conventional Roma tomato farm to Farmer Credence Clearwater's organic heirloom tomato farm the next field over."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.44",
+          "word": "ecology"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.42",
+          "word": "describes"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.4",
+          "word": "ecological"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.4",
+          "word": "wellness"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.4",
+          "word": "holistic"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.39",
+          "word": "founded"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.38",
+          "word": "cultural"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.37",
+          "word": "founding"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.37",
+          "word": "promoting"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.37",
+          "word": "educational"
+        }
+      ],
+      "sentiment": 0.3308296854029748
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.061746318",
+          "word": "buy"
+        },
+        {
+          "distance": "0.039676934",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.074528866",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.04182717",
+          "word": "heck"
+        },
+        {
+          "distance": "0.05755899",
+          "word": "boost"
+        },
+        {
+          "distance": "0.089132614",
+          "word": "fun"
+        },
+        {
+          "distance": "0.06369175",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.029337332",
+          "word": "labled"
+        },
+        {
+          "distance": "0.030960217",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.041397177",
+          "word": "specified"
+        },
+        {
+          "distance": "0.06469153",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.038658783",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.039786484",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.04049984",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.05974844",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.04609863",
+          "word": "onto"
+        },
+        {
+          "distance": "0.048883963",
+          "word": "butter"
+        },
+        {
+          "distance": "0.03928015",
+          "word": "advise"
+        },
+        {
+          "distance": "0.046306785",
+          "word": "owned"
+        }
+      ],
+      "group": 12,
+      "id": "rejected",
+      "occurrences": "1008",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Here at the Food Revolution Network, we hope that a focus on health, compassion and sustainability will be part of Amazon's mission in their acquisition of Whole Foods Market."
+        },
+        {
+          "rank": 2,
+          "sentence": "Organic foods is not about comparing nutrition."
+        },
+        {
+          "rank": 3,
+          "sentence": "Why cannot they just let me eat my food that I love that everyone else thinks is yucky in peace?"
+        },
+        {
+          "rank": 4,
+          "sentence": "I used to support the organics industry, but since they have been campaigning against healthy foods such as the golden rice they have totally lost our respect and support."
+        },
+        {
+          "rank": 5,
+          "sentence": "Synthetic simply means man made, but many of those \"organic\" pesticides are man made to."
+        },
+        {
+          "rank": 6,
+          "sentence": "When they see that the nutritional facts on organic foods are no \"better\" than that of conventional then they conclude that organic is pointless."
+        },
+        {
+          "rank": 7,
+          "sentence": "; organic."
+        },
+        {
+          "rank": 8,
+          "sentence": "that Monsanto had offered to provide them seeds so they can produce more food for the starving nation."
+        },
+        {
+          "rank": 9,
+          "sentence": "So we now sell at normal prices, scrap the organic certification to save costs."
+        },
+        {
+          "rank": 10,
+          "sentence": "You know, I like Food Babe\ufeff, but I think this goes a bit too far."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.43",
+          "word": "rejected"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.39",
+          "word": "declared"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.39",
+          "word": "ruling"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.38",
+          "word": "dismissed"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.37",
+          "word": "urged"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.37",
+          "word": "administration"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.37",
+          "word": "challenged"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.37",
+          "word": "endorsed"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.37",
+          "word": "opposition"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.37",
+          "word": "refused"
+        }
+      ],
+      "sentiment": 0.8332152164843136
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.08193035",
+          "word": "buy"
+        },
+        {
+          "distance": "0.04198639",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.04956531",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.05426315",
+          "word": "heck"
+        },
+        {
+          "distance": "0.051070277",
+          "word": "boost"
+        },
+        {
+          "distance": "0.066505894",
+          "word": "fun"
+        },
+        {
+          "distance": "0.056897603",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.04606086",
+          "word": "labled"
+        },
+        {
+          "distance": "0.058773056",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.041357014",
+          "word": "specified"
+        },
+        {
+          "distance": "0.046738323",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.04725069",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.039989665",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.04397354",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.04527684",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.041951817",
+          "word": "onto"
+        },
+        {
+          "distance": "0.06663816",
+          "word": "butter"
+        },
+        {
+          "distance": "0.045300804",
+          "word": "advise"
+        },
+        {
+          "distance": "0.042044077",
+          "word": "owned"
+        }
+      ],
+      "group": 13,
+      "id": "goorganic",
+      "occurrences": "108",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Organic Coconut oil sent my wifes bad cholesterol sky high......so it is not for everyone... Test and measure is the key"
+        },
+        {
+          "rank": 2,
+          "sentence": "So you even if the item is certified organic, it may still contain pesticides."
+        },
+        {
+          "rank": 3,
+          "sentence": "\u0093The Sweet Water Foundation was dedicated to democratizing and globalizing the information and the methodologies required to advance this very Earth-friendly food production system, which, by the way, only uses about 10 percent of the water normal farming does, and uses no pesticides."
+        },
+        {
+          "rank": 4,
+          "sentence": "We had 2.5 million people die in the U.S. in 2011, and of those, about one in a thousand died of food-borne illness."
+        },
+        {
+          "rank": 5,
+          "sentence": "i do not always buy 'organic' at the store, but at least i have an idea of what it means and i still look at the labels."
+        },
+        {
+          "rank": 6,
+          "sentence": "Finding healthy organic food, especially quality produce is getting pretty easy to do and it does not have to bust the budget."
+        },
+        {
+          "rank": 7,
+          "sentence": "They typically impact fewer non-target species and have better biodegradability properties than the pesticides used in organic farming."
+        },
+        {
+          "rank": 8,
+          "sentence": "S he is been known to tell people to \"lie to the servers\" regarding food allergies."
+        },
+        {
+          "rank": 9,
+          "sentence": "As mentioned I actually careless about the \"organic\" part."
+        },
+        {
+          "rank": 10,
+          "sentence": "The argument about Monsanto's (and friends) actions are about who controls the political economy of the world's food production system - it also involves the ones around gene patents and such."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.29",
+          "word": "<num>"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.27",
+          "word": "goorganic"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.27",
+          "word": "recently"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.26",
+          "word": "interviewed"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.26",
+          "word": "showed"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.25",
+          "word": "suffered"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.25",
+          "word": "norman"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.24",
+          "word": "diagnosed"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.24",
+          "word": "reported"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.24",
+          "word": "occurred"
+        }
+      ],
+      "sentiment": 0.4048078197443636
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.05568964",
+          "word": "buy"
+        },
+        {
+          "distance": "0.043285143",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.03965962",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.053210706",
+          "word": "heck"
+        },
+        {
+          "distance": "0.07572353",
+          "word": "boost"
+        },
+        {
+          "distance": "0.063735686",
+          "word": "fun"
+        },
+        {
+          "distance": "0.049753927",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.024200713",
+          "word": "labled"
+        },
+        {
+          "distance": "0.053106923",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.06092134",
+          "word": "specified"
+        },
+        {
+          "distance": "0.04384512",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.046910066",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.050852392",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.034072552",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.05083447",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.047436148",
+          "word": "onto"
+        },
+        {
+          "distance": "0.045174316",
+          "word": "butter"
+        },
+        {
+          "distance": "0.06960244",
+          "word": "advise"
+        },
+        {
+          "distance": "0.0494225",
+          "word": "owned"
+        }
+      ],
+      "group": 14,
+      "id": "herbicide",
+      "occurrences": "4795",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Our bodies are totally capable of combining amino acids (proteins) as needed, from nourishing food."
+        },
+        {
+          "rank": 2,
+          "sentence": "While we are at it, let's just skip the animal products and promote plant based foods!"
+        },
+        {
+          "rank": 3,
+          "sentence": "I think that by making food an issue of morals or character, we actually make it more difficult to have an honest and healthy public conversation about what we eat and why."
+        },
+        {
+          "rank": 4,
+          "sentence": "Planting our own organic garden is a great idea, but we cannot guarantee that the seeds are GMO free."
+        },
+        {
+          "rank": 5,
+          "sentence": "I had no idea that Organic Valley was Pro GMO."
+        },
+        {
+          "rank": 6,
+          "sentence": "Sent it off and added the line: Without a program like this, some farmers will not be able to afford changing to organic, but the rest of the nation cannot afford for them not to."
+        },
+        {
+          "rank": 7,
+          "sentence": "It is shocking that the FDA has never developed binding federal rules to protect consumers from the food safety risks of genetically engineered foods."
+        },
+        {
+          "rank": 8,
+          "sentence": "This important fact often gets left of the discussions about organics, as it has been here."
+        },
+        {
+          "rank": 9,
+          "sentence": "Organic stuff is usually much more flavourful."
+        },
+        {
+          "rank": 10,
+          "sentence": "Growing up in a rural area, there is already an existing food delivery service."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.53",
+          "word": "herbicide"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.52",
+          "word": "pesticide"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.46",
+          "word": "fungicide"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.46",
+          "word": "insecticide"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.42",
+          "word": "glyphosate"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.41",
+          "word": "synthetic"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.4",
+          "word": "ddt"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.39",
+          "word": "peroxide"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.39",
+          "word": "residue"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.39",
+          "word": "spraying"
+        }
+      ],
+      "sentiment": 0.8061049655728136
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.07363681",
+          "word": "buy"
+        },
+        {
+          "distance": "0.027877873",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.03404025",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.039678846",
+          "word": "heck"
+        },
+        {
+          "distance": "0.04793477",
+          "word": "boost"
+        },
+        {
+          "distance": "0.05493152",
+          "word": "fun"
+        },
+        {
+          "distance": "0.070481025",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.068273604",
+          "word": "labled"
+        },
+        {
+          "distance": "0.037879627",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.051320802",
+          "word": "specified"
+        },
+        {
+          "distance": "0.06893795",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.04688019",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.03694273",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.036737934",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.07676408",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.05651994",
+          "word": "onto"
+        },
+        {
+          "distance": "0.042903453",
+          "word": "butter"
+        },
+        {
+          "distance": "0.04000713",
+          "word": "advise"
+        },
+        {
+          "distance": "0.037013818",
+          "word": "owned"
+        }
+      ],
+      "group": 15,
+      "id": "alleged",
+      "occurrences": "1908",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "But what a shock I had when I went food shopping and walked down the cereal isle."
+        },
+        {
+          "rank": 2,
+          "sentence": "So until Whole Food starts stocking the regular national brands, I would not quake yet, supermarkets."
+        },
+        {
+          "rank": 3,
+          "sentence": "it is all organic and it is wonderful."
+        },
+        {
+          "rank": 4,
+          "sentence": "Certain large corporations and wealthy individuals have vested financial interests in promoting the \"non-GMO\" and \"eat only organic\" themes; the fact is that there is not a single confirmed medical report of anyone ever being harmed by any modern genetically engineered food crop."
+        },
+        {
+          "rank": 5,
+          "sentence": "It is my firm belief that the lack of constant fresh food is leading to the myriad of health problems we are seeing in this country."
+        },
+        {
+          "rank": 6,
+          "sentence": "Organic livestock must also be tracked from birth to slaughter in order to be certified (to ensure they have been raised using organic methods)."
+        },
+        {
+          "rank": 7,
+          "sentence": "My wife and I raise beef cattle and my brother operates an organic dairy."
+        },
+        {
+          "rank": 8,
+          "sentence": "summary : spend the money on directly helping the environment instead of buying organic."
+        },
+        {
+          "rank": 9,
+          "sentence": "The film Food, Inc. is a great place to start, also the book Fatal Harvest: The Tragedy of Industrial Farming, edited by Andrew Kimbrell."
+        },
+        {
+          "rank": 10,
+          "sentence": "Last, several cases exist where organic pesticides are worse than synthetics."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.37",
+          "word": "alleged"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.37",
+          "word": "destruction"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.37",
+          "word": "prevented"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.37",
+          "word": "accused"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.37",
+          "word": "false"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.37",
+          "word": "unfounded"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.37",
+          "word": "tainted"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.37",
+          "word": "threatening"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.37",
+          "word": "violation"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.36",
+          "word": "leak"
+        }
+      ],
+      "sentiment": 0.3516774335667909
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.06301921",
+          "word": "buy"
+        },
+        {
+          "distance": "0.03128138",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.041029006",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.04449481",
+          "word": "heck"
+        },
+        {
+          "distance": "0.059317484",
+          "word": "boost"
+        },
+        {
+          "distance": "0.05618686",
+          "word": "fun"
+        },
+        {
+          "distance": "0.052687597",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.03780885",
+          "word": "labled"
+        },
+        {
+          "distance": "0.050301585",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.066881515",
+          "word": "specified"
+        },
+        {
+          "distance": "0.041075975",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.05148408",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.050641857",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.035776403",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.053347096",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.05666735",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.049282346",
+          "word": "butter"
+        },
+        {
+          "distance": "0.071857184",
+          "word": "advise"
+        },
+        {
+          "distance": "0.042140543",
+          "word": "owned"
+        }
+      ],
+      "group": 16,
+      "id": "onto",
+      "occurrences": "212",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "This ridiculous rumor started over a year ago in January 2011 because of the Organic Consumer Association's (OCA) misleading article titled \"Whole Foods Caves to Monsanto.\" >You see, Whole Foods Market and others in the organic food industry met with the US Secretary of Agriculture in support of farmers' rights to grow Non-GMO crops."
+        },
+        {
+          "rank": 2,
+          "sentence": "Iam going to start my organic store in haryana,from where I can purchase all item"
+        },
+        {
+          "rank": 3,
+          "sentence": "Or the people are buying organic because of environmental effects or because of animal rights issues."
+        },
+        {
+          "rank": 4,
+          "sentence": "or\u00b7gan\u00b7ic \u00f4r\u02c8\u0261anik/ adjective adjective: organic 1. relating to or derived from living matter."
+        },
+        {
+          "rank": 5,
+          "sentence": "Seems once again there is the need for everyone to understand how important it is to GROW YOUR OWN FOOD!"
+        },
+        {
+          "rank": 6,
+          "sentence": "so... if u grow with gmo you are still organic."
+        },
+        {
+          "rank": 7,
+          "sentence": "A biodiverse food system will resolve the issue of malnutrition which is best done at the local level with local crops that are adapted to that region."
+        },
+        {
+          "rank": 8,
+          "sentence": "It renders soil dead and useless, it makes our rainwater toxic, and they want a mass takeover of all the planet's resources. they have sued organic farmers and destroyed so many lives, they have fought tirelessly against labeling and to try to allow their GMO's to be called \"organic\" which thankfully they were unable to do because the people fought back, they have burned down their testing sites and published fake studies and had media members fired (no surprise as to why this is not on the media), they have threatened the careers of scientists who dared research GMO's effects on health, and the list goes on and on."
+        },
+        {
+          "rank": 9,
+          "sentence": "Can anyone explain organic canola oil?"
+        },
+        {
+          "rank": 10,
+          "sentence": "Animal-based food products dominate the carbon footprints and land use (ca."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.27",
+          "word": "onto"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.27",
+          "word": "apron"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.26",
+          "word": "tossed"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.26",
+          "word": "hopped"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.25",
+          "word": "pile"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.25",
+          "word": "stuck"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.24",
+          "word": "beside"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.24",
+          "word": "earthfare"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.24",
+          "word": "carpet"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.23",
+          "word": "lawn"
+        }
+      ],
+      "sentiment": 0.28828477966817956
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.065910816",
+          "word": "buy"
+        },
+        {
+          "distance": "0.032919504",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.046659335",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.046856027",
+          "word": "heck"
+        },
+        {
+          "distance": "0.06644424",
+          "word": "boost"
+        },
+        {
+          "distance": "0.06410317",
+          "word": "fun"
+        },
+        {
+          "distance": "0.06186049",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.05326592",
+          "word": "labled"
+        },
+        {
+          "distance": "0.044474658",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.06930582",
+          "word": "specified"
+        },
+        {
+          "distance": "0.037014168",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.06554969",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.03501895",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.033865687",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.0647335",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.04307603",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.0313957",
+          "word": "onto"
+        },
+        {
+          "distance": "0.054780323",
+          "word": "advise"
+        },
+        {
+          "distance": "0.026813837",
+          "word": "owned"
+        }
+      ],
+      "group": 17,
+      "id": "butter",
+      "occurrences": "8282",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Americans spend a lower percentage of their income on food than any other country in the world."
+        },
+        {
+          "rank": 2,
+          "sentence": "I raise organic poultry for eggs and meat."
+        },
+        {
+          "rank": 3,
+          "sentence": "who is going to have anything to live on when the world food has been destroyed by GMO escapes and cross-contamination?"
+        },
+        {
+          "rank": 4,
+          "sentence": "Often organic produce simply tastes better, and tests show they have slightly more nutritional value than conventional produce."
+        },
+        {
+          "rank": 5,
+          "sentence": "If you eat food that are healthy and YOU LIKE IT, the kids will pick up on the enjoyment."
+        },
+        {
+          "rank": 6,
+          "sentence": "What you cannot control is what kinds of foods offered to you by other parties."
+        },
+        {
+          "rank": 7,
+          "sentence": "Then we would be able to have more free range organic animals."
+        },
+        {
+          "rank": 8,
+          "sentence": "there is a 3 years waiting period before you can be certified as organic."
+        },
+        {
+          "rank": 9,
+          "sentence": "I will be over there, by the NON-ORGANIC foods....."
+        },
+        {
+          "rank": 10,
+          "sentence": "The anti-science fear mongering has literally led to starvation in nations that have food security problems."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.59",
+          "word": "butter"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.57",
+          "word": "yogurt"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.57",
+          "word": "tofu"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.56",
+          "word": "cheese"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.55",
+          "word": "flavored"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.53",
+          "word": "juice"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.53",
+          "word": "sauce"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.52",
+          "word": "caramel"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.52",
+          "word": "dessert"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.51",
+          "word": "bread"
+        }
+      ],
+      "sentiment": 0.5804461231011536
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.07023195",
+          "word": "buy"
+        },
+        {
+          "distance": "0.026754253",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.045952555",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.04944199",
+          "word": "heck"
+        },
+        {
+          "distance": "0.053279884",
+          "word": "boost"
+        },
+        {
+          "distance": "0.06730202",
+          "word": "fun"
+        },
+        {
+          "distance": "0.061566133",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.032698374",
+          "word": "labled"
+        },
+        {
+          "distance": "0.046121962",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.055406578",
+          "word": "specified"
+        },
+        {
+          "distance": "0.03783458",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.05111732",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.056416746",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.049532052",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.059273854",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.056021746",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.032990217",
+          "word": "onto"
+        },
+        {
+          "distance": "0.045786146",
+          "word": "butter"
+        },
+        {
+          "distance": "0.059958566",
+          "word": "owned"
+        }
+      ],
+      "group": 18,
+      "id": "advise",
+      "occurrences": "1454",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "Organic still sprays w herbal poisonous properties from plants and herbs, and unless you buy real local, nothing is allowed on a food transport truck w out being sprayed.."
+        },
+        {
+          "rank": 2,
+          "sentence": "Thank you food babe for being a champion an trying to make a difference, it is not easy."
+        },
+        {
+          "rank": 3,
+          "sentence": "Convenience foods in the stores are also loaded with toxic chemicals and are over processed and do not have the nutritional value as fresh.so get a course in genetics before you post a bunch of misinformation"
+        },
+        {
+          "rank": 4,
+          "sentence": "Do not discard food that can be donated to the needy."
+        },
+        {
+          "rank": 5,
+          "sentence": "it is not like people buying organic effects people who do not ."
+        },
+        {
+          "rank": 6,
+          "sentence": "In her memory , I leave Whole Foods, because she always hated big monopoly corporations."
+        },
+        {
+          "rank": 7,
+          "sentence": "If it does not nourish, it is NOT food!"
+        },
+        {
+          "rank": 8,
+          "sentence": "If they are not listed on the contents panel on foods they cannot be held responsible for any adverse repercussions."
+        },
+        {
+          "rank": 9,
+          "sentence": "Overuse of fertilizers and pesticides do pollute the local environment (organic or not)."
+        },
+        {
+          "rank": 10,
+          "sentence": "I am much more concerned about the sugar, fat, and chemicals in processed foods--and the huge quantity of processed foods we eat--than in genetically modified food."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.53",
+          "word": "advise"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.49",
+          "word": "comply"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.49",
+          "word": "encourage"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.49",
+          "word": "enable"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.48",
+          "word": "intend"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.47",
+          "word": "inform"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.46",
+          "word": "adhere"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.45",
+          "word": "opt"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.45",
+          "word": "apply"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.45",
+          "word": "obliged"
+        }
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "distances": [
+        {
+          "distance": "0.059612665",
+          "word": "buy"
+        },
+        {
+          "distance": "0.030819768",
+          "word": "monsantos"
+        },
+        {
+          "distance": "0.070228174",
+          "word": "hypocritical"
+        },
+        {
+          "distance": "0.04733577",
+          "word": "heck"
+        },
+        {
+          "distance": "0.06312854",
+          "word": "boost"
+        },
+        {
+          "distance": "0.071577065",
+          "word": "fun"
+        },
+        {
+          "distance": "0.048048846",
+          "word": "diagnosed"
+        },
+        {
+          "distance": "0.0629967",
+          "word": "labled"
+        },
+        {
+          "distance": "0.039203063",
+          "word": "<num>"
+        },
+        {
+          "distance": "0.048819177",
+          "word": "specified"
+        },
+        {
+          "distance": "0.039588347",
+          "word": "pasture"
+        },
+        {
+          "distance": "0.047064565",
+          "word": "ecology"
+        },
+        {
+          "distance": "0.048758537",
+          "word": "rejected"
+        },
+        {
+          "distance": "0.025166925",
+          "word": "goorganic"
+        },
+        {
+          "distance": "0.06045372",
+          "word": "herbicide"
+        },
+        {
+          "distance": "0.060346223",
+          "word": "alleged"
+        },
+        {
+          "distance": "0.04048261",
+          "word": "onto"
+        },
+        {
+          "distance": "0.04891215",
+          "word": "butter"
+        },
+        {
+          "distance": "0.041408975",
+          "word": "advise"
+        }
+      ],
+      "group": 19,
+      "id": "owned",
+      "occurrences": "1374",
+      "sentences": [
+        {
+          "rank": 1,
+          "sentence": "In one or two parameters Organic food showed some benefit."
+        },
+        {
+          "rank": 2,
+          "sentence": "No one (in the U.S.) is too poor to afford real food."
+        },
+        {
+          "rank": 3,
+          "sentence": "We do buy pastured organic dairy and eggs and meat."
+        },
+        {
+          "rank": 4,
+          "sentence": "The marketing term \"organic\" is meaningless drivel whose purpose is to separate fools from their money."
+        },
+        {
+          "rank": 5,
+          "sentence": "I can tell you now that a few studies have shown nutritional benefits - for instance I know there is data on processed tomatoes that show the organic brands have more antioxidants."
+        },
+        {
+          "rank": 6,
+          "sentence": "Everything alive can be food for another, including Diane Kitterman for whom the lions and tigers, wild packs of dogs etc would just love to taste and munch down on your flesh whilst still fresh."
+        },
+        {
+          "rank": 7,
+          "sentence": "Time to deal with the problems in the food supply."
+        },
+        {
+          "rank": 8,
+          "sentence": "The most important thing is eating food grown on highly mineralized soils."
+        },
+        {
+          "rank": 9,
+          "sentence": "Given that Aspartame is 200 times sweeter than sugar, manufacturers are able to produce their sweet foods and market them as \"low calorie\" so they can market and appeal to millions of people on \"diets.\" There is no doubt that the less sugar you have in your diet, the better, but replacing sugar with aspartame is not the solution; in fact this is likely to be even worse for your health."
+        },
+        {
+          "rank": 10,
+          "sentence": "So, yeah, if you are egocentric and do not care about the greater world, buy the cheapest food you can and spend the rest of large flat screen TVs."
+        }
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "similarity": "0.41",
+          "word": "owned"
+        },
+        {
+          "rank": 2,
+          "similarity": "0.41",
+          "word": "operated"
+        },
+        {
+          "rank": 3,
+          "similarity": "0.39",
+          "word": "purchased"
+        },
+        {
+          "rank": 4,
+          "similarity": "0.38",
+          "word": "became"
+        },
+        {
+          "rank": 5,
+          "similarity": "0.38",
+          "word": "formerly"
+        },
+        {
+          "rank": 6,
+          "similarity": "0.36",
+          "word": "upscale"
+        },
+        {
+          "rank": 7,
+          "similarity": "0.35",
+          "word": "sold"
+        },
+        {
+          "rank": 8,
+          "similarity": "0.34",
+          "word": "initially"
+        },
+        {
+          "rank": 9,
+          "similarity": "0.34",
+          "word": "1980s"
+        },
+        {
+          "rank": 10,
+          "similarity": "0.34",
+          "word": "joined"
+        }
+      ],
+      "sentiment": 0.38070509306630496
+    }
+  ],
+  "links": [
+    {
+      "source": "monsantos",
+      "target": "buy",
+      "value": -0.36
+    },
+    {
+      "source": "hypocritical",
+      "target": "buy",
+      "value": 0.06
+    },
+    {
+      "source": "hypocritical",
+      "target": "monsantos",
+      "value": -0.39
+    },
+    {
+      "source": "heck",
+      "target": "buy",
+      "value": -0.16
+    },
+    {
+      "source": "heck",
+      "target": "monsantos",
+      "value": 0.37
+    },
+    {
+      "source": "heck",
+      "target": "hypocritical",
+      "value": -0.33
+    },
+    {
+      "source": "boost",
+      "target": "buy",
+      "value": 0.16
+    },
+    {
+      "source": "boost",
+      "target": "monsantos",
+      "value": -0.6
+    },
+    {
+      "source": "boost",
+      "target": "hypocritical",
+      "value": 0.31
+    },
+    {
+      "source": "boost",
+      "target": "heck",
+      "value": -0.38
+    },
+    {
+      "source": "fun",
+      "target": "buy",
+      "value": -0.12
+    },
+    {
+      "source": "fun",
+      "target": "monsantos",
+      "value": -0.04
+    },
+    {
+      "source": "fun",
+      "target": "hypocritical",
+      "value": 0.24
+    },
+    {
+      "source": "fun",
+      "target": "heck",
+      "value": 0.2
+    },
+    {
+      "source": "fun",
+      "target": "boost",
+      "value": 0.11
+    },
+    {
+      "source": "diagnosed",
+      "target": "buy",
+      "value": -0.05
+    },
+    {
+      "source": "diagnosed",
+      "target": "monsantos",
+      "value": -0.07
+    },
+    {
+      "source": "diagnosed",
+      "target": "hypocritical",
+      "value": -0.2
+    },
+    {
+      "source": "diagnosed",
+      "target": "heck",
+      "value": 0.0
+    },
+    {
+      "source": "diagnosed",
+      "target": "boost",
+      "value": -0.0
+    },
+    {
+      "source": "diagnosed",
+      "target": "fun",
+      "value": 0.03
+    },
+    {
+      "source": "labled",
+      "target": "buy",
+      "value": -0.08
+    },
+    {
+      "source": "labled",
+      "target": "monsantos",
+      "value": 0.43
+    },
+    {
+      "source": "labled",
+      "target": "hypocritical",
+      "value": -0.31
+    },
+    {
+      "source": "labled",
+      "target": "heck",
+      "value": 0.11
+    },
+    {
+      "source": "labled",
+      "target": "boost",
+      "value": -0.56
+    },
+    {
+      "source": "labled",
+      "target": "fun",
+      "value": -0.36
+    },
+    {
+      "source": "labled",
+      "target": "diagnosed",
+      "value": 0.01
+    },
+    {
+      "source": "<num>",
+      "target": "buy",
+      "value": -0.18
+    },
+    {
+      "source": "<num>",
+      "target": "monsantos",
+      "value": 0.31
+    },
+    {
+      "source": "<num>",
+      "target": "hypocritical",
+      "value": -0.16
+    },
+    {
+      "source": "<num>",
+      "target": "heck",
+      "value": -0.01
+    },
+    {
+      "source": "<num>",
+      "target": "boost",
+      "value": -0.26
+    },
+    {
+      "source": "<num>",
+      "target": "fun",
+      "value": -0.11
+    },
+    {
+      "source": "<num>",
+      "target": "diagnosed",
+      "value": -0.2
+    },
+    {
+      "source": "<num>",
+      "target": "labled",
+      "value": 0.09
+    },
+    {
+      "source": "specified",
+      "target": "buy",
+      "value": -0.34
+    },
+    {
+      "source": "specified",
+      "target": "monsantos",
+      "value": 0.27
+    },
+    {
+      "source": "specified",
+      "target": "hypocritical",
+      "value": -0.29
+    },
+    {
+      "source": "specified",
+      "target": "heck",
+      "value": 0.23
+    },
+    {
+      "source": "specified",
+      "target": "boost",
+      "value": -0.27
+    },
+    {
+      "source": "specified",
+      "target": "fun",
+      "value": -0.09
+    },
+    {
+      "source": "specified",
+      "target": "diagnosed",
+      "value": -0.02
+    },
+    {
+      "source": "specified",
+      "target": "labled",
+      "value": 0.17
+    },
+    {
+      "source": "specified",
+      "target": "<num>",
+      "value": 0.08
+    },
+    {
+      "source": "pasture",
+      "target": "buy",
+      "value": -0.04
+    },
+    {
+      "source": "pasture",
+      "target": "monsantos",
+      "value": 0.14
+    },
+    {
+      "source": "pasture",
+      "target": "hypocritical",
+      "value": -0.3
+    },
+    {
+      "source": "pasture",
+      "target": "heck",
+      "value": 0.05
+    },
+    {
+      "source": "pasture",
+      "target": "boost",
+      "value": -0.29
+    },
+    {
+      "source": "pasture",
+      "target": "fun",
+      "value": -0.25
+    },
+    {
+      "source": "pasture",
+      "target": "diagnosed",
+      "value": 0.1
+    },
+    {
+      "source": "pasture",
+      "target": "labled",
+      "value": 0.33
+    },
+    {
+      "source": "pasture",
+      "target": "<num>",
+      "value": 0.08
+    },
+    {
+      "source": "pasture",
+      "target": "specified",
+      "value": -0.02
+    },
+    {
+      "source": "ecology",
+      "target": "buy",
+      "value": -0.07
+    },
+    {
+      "source": "ecology",
+      "target": "monsantos",
+      "value": -0.24
+    },
+    {
+      "source": "ecology",
+      "target": "hypocritical",
+      "value": 0.17
+    },
+    {
+      "source": "ecology",
+      "target": "heck",
+      "value": -0.23
+    },
+    {
+      "source": "ecology",
+      "target": "boost",
+      "value": 0.19
+    },
+    {
+      "source": "ecology",
+      "target": "fun",
+      "value": -0.1
+    },
+    {
+      "source": "ecology",
+      "target": "diagnosed",
+      "value": -0.15
+    },
+    {
+      "source": "ecology",
+      "target": "labled",
+      "value": -0.21
+    },
+    {
+      "source": "ecology",
+      "target": "<num>",
+      "value": -0.09
+    },
+    {
+      "source": "ecology",
+      "target": "specified",
+      "value": 0.04
+    },
+    {
+      "source": "ecology",
+      "target": "pasture",
+      "value": -0.21
+    },
+    {
+      "source": "rejected",
+      "target": "buy",
+      "value": -0.13
+    },
+    {
+      "source": "rejected",
+      "target": "monsantos",
+      "value": -0.02
+    },
+    {
+      "source": "rejected",
+      "target": "hypocritical",
+      "value": -0.12
+    },
+    {
+      "source": "rejected",
+      "target": "heck",
+      "value": 0.17
+    },
+    {
+      "source": "rejected",
+      "target": "boost",
+      "value": 0.1
+    },
+    {
+      "source": "rejected",
+      "target": "fun",
+      "value": 0.16
+    },
+    {
+      "source": "rejected",
+      "target": "diagnosed",
+      "value": 0.1
+    },
+    {
+      "source": "rejected",
+      "target": "labled",
+      "value": -0.34
+    },
+    {
+      "source": "rejected",
+      "target": "<num>",
+      "value": -0.16
+    },
+    {
+      "source": "rejected",
+      "target": "specified",
+      "value": 0.17
+    },
+    {
+      "source": "rejected",
+      "target": "pasture",
+      "value": -0.24
+    },
+    {
+      "source": "rejected",
+      "target": "ecology",
+      "value": 0.11
+    },
+    {
+      "source": "goorganic",
+      "target": "buy",
+      "value": 0.17
+    },
+    {
+      "source": "goorganic",
+      "target": "monsantos",
+      "value": -0.49
+    },
+    {
+      "source": "goorganic",
+      "target": "hypocritical",
+      "value": 0.36
+    },
+    {
+      "source": "goorganic",
+      "target": "heck",
+      "value": -0.37
+    },
+    {
+      "source": "goorganic",
+      "target": "boost",
+      "value": 0.39
+    },
+    {
+      "source": "goorganic",
+      "target": "fun",
+      "value": -0.03
+    },
+    {
+      "source": "goorganic",
+      "target": "diagnosed",
+      "value": -0.25
+    },
+    {
+      "source": "goorganic",
+      "target": "labled",
+      "value": -0.45
+    },
+    {
+      "source": "goorganic",
+      "target": "<num>",
+      "value": -0.08
+    },
+    {
+      "source": "goorganic",
+      "target": "specified",
+      "value": -0.41
+    },
+    {
+      "source": "goorganic",
+      "target": "pasture",
+      "value": -0.23
+    },
+    {
+      "source": "goorganic",
+      "target": "ecology",
+      "value": 0.17
+    },
+    {
+      "source": "goorganic",
+      "target": "rejected",
+      "value": -0.11
+    },
+    {
+      "source": "herbicide",
+      "target": "buy",
+      "value": 0.05
+    },
+    {
+      "source": "herbicide",
+      "target": "monsantos",
+      "value": -0.01
+    },
+    {
+      "source": "herbicide",
+      "target": "hypocritical",
+      "value": -0.24
+    },
+    {
+      "source": "herbicide",
+      "target": "heck",
+      "value": -0.18
+    },
+    {
+      "source": "herbicide",
+      "target": "boost",
+      "value": -0.25
+    },
+    {
+      "source": "herbicide",
+      "target": "fun",
+      "value": -0.43
+    },
+    {
+      "source": "herbicide",
+      "target": "diagnosed",
+      "value": 0.21
+    },
+    {
+      "source": "herbicide",
+      "target": "labled",
+      "value": 0.41
+    },
+    {
+      "source": "herbicide",
+      "target": "<num>",
+      "value": -0.09
+    },
+    {
+      "source": "herbicide",
+      "target": "specified",
+      "value": 0.14
+    },
+    {
+      "source": "herbicide",
+      "target": "pasture",
+      "value": 0.24
+    },
+    {
+      "source": "herbicide",
+      "target": "ecology",
+      "value": -0.04
+    },
+    {
+      "source": "herbicide",
+      "target": "rejected",
+      "value": -0.19
+    },
+    {
+      "source": "herbicide",
+      "target": "goorganic",
+      "value": -0.22
+    },
+    {
+      "source": "alleged",
+      "target": "buy",
+      "value": -0.42
+    },
+    {
+      "source": "alleged",
+      "target": "monsantos",
+      "value": 0.31
+    },
+    {
+      "source": "alleged",
+      "target": "hypocritical",
+      "value": -0.04
+    },
+    {
+      "source": "alleged",
+      "target": "heck",
+      "value": 0.06
+    },
+    {
+      "source": "alleged",
+      "target": "boost",
+      "value": -0.29
+    },
+    {
+      "source": "alleged",
+      "target": "fun",
+      "value": -0.02
+    },
+    {
+      "source": "alleged",
+      "target": "diagnosed",
+      "value": 0.02
+    },
+    {
+      "source": "alleged",
+      "target": "labled",
+      "value": 0.06
+    },
+    {
+      "source": "alleged",
+      "target": "<num>",
+      "value": 0.19
+    },
+    {
+      "source": "alleged",
+      "target": "specified",
+      "value": 0.19
+    },
+    {
+      "source": "alleged",
+      "target": "pasture",
+      "value": -0.1
+    },
+    {
+      "source": "alleged",
+      "target": "ecology",
+      "value": -0.0
+    },
+    {
+      "source": "alleged",
+      "target": "rejected",
+      "value": 0.09
+    },
+    {
+      "source": "alleged",
+      "target": "goorganic",
+      "value": -0.16
+    },
+    {
+      "source": "alleged",
+      "target": "herbicide",
+      "value": 0.03
+    },
+    {
+      "source": "onto",
+      "target": "buy",
+      "value": 0.31
+    },
+    {
+      "source": "onto",
+      "target": "monsantos",
+      "value": -0.59
+    },
+    {
+      "source": "onto",
+      "target": "hypocritical",
+      "value": 0.39
+    },
+    {
+      "source": "onto",
+      "target": "heck",
+      "value": -0.42
+    },
+    {
+      "source": "onto",
+      "target": "boost",
+      "value": 0.55
+    },
+    {
+      "source": "onto",
+      "target": "fun",
+      "value": 0.11
+    },
+    {
+      "source": "onto",
+      "target": "diagnosed",
+      "value": -0.07
+    },
+    {
+      "source": "onto",
+      "target": "labled",
+      "value": -0.45
+    },
+    {
+      "source": "onto",
+      "target": "<num>",
+      "value": -0.36
+    },
+    {
+      "source": "onto",
+      "target": "specified",
+      "value": -0.51
+    },
+    {
+      "source": "onto",
+      "target": "pasture",
+      "value": -0.25
+    },
+    {
+      "source": "onto",
+      "target": "ecology",
+      "value": 0.08
+    },
+    {
+      "source": "onto",
+      "target": "rejected",
+      "value": -0.07
+    },
+    {
+      "source": "onto",
+      "target": "goorganic",
+      "value": 0.52
+    },
+    {
+      "source": "onto",
+      "target": "herbicide",
+      "value": -0.14
+    },
+    {
+      "source": "onto",
+      "target": "alleged",
+      "value": -0.32
+    },
+    {
+      "source": "butter",
+      "target": "buy",
+      "value": 0.12
+    },
+    {
+      "source": "butter",
+      "target": "monsantos",
+      "value": -0.09
+    },
+    {
+      "source": "butter",
+      "target": "hypocritical",
+      "value": -0.02
+    },
+    {
+      "source": "butter",
+      "target": "heck",
+      "value": -0.07
+    },
+    {
+      "source": "butter",
+      "target": "boost",
+      "value": 0.0
+    },
+    {
+      "source": "butter",
+      "target": "fun",
+      "value": -0.09
+    },
+    {
+      "source": "butter",
+      "target": "diagnosed",
+      "value": -0.06
+    },
+    {
+      "source": "butter",
+      "target": "labled",
+      "value": 0.09
+    },
+    {
+      "source": "butter",
+      "target": "<num>",
+      "value": -0.07
+    },
+    {
+      "source": "butter",
+      "target": "specified",
+      "value": -0.31
+    },
+    {
+      "source": "butter",
+      "target": "pasture",
+      "value": 0.14
+    },
+    {
+      "source": "butter",
+      "target": "ecology",
+      "value": -0.18
+    },
+    {
+      "source": "butter",
+      "target": "rejected",
+      "value": -0.28
+    },
+    {
+      "source": "butter",
+      "target": "goorganic",
+      "value": 0.14
+    },
+    {
+      "source": "butter",
+      "target": "herbicide",
+      "value": -0.16
+    },
+    {
+      "source": "butter",
+      "target": "alleged",
+      "value": -0.38
+    },
+    {
+      "source": "butter",
+      "target": "onto",
+      "value": 0.15
+    },
+    {
+      "source": "advise",
+      "target": "buy",
+      "value": 0.1
+    },
+    {
+      "source": "advise",
+      "target": "monsantos",
+      "value": -0.36
+    },
+    {
+      "source": "advise",
+      "target": "hypocritical",
+      "value": 0.25
+    },
+    {
+      "source": "advise",
+      "target": "heck",
+      "value": -0.27
+    },
+    {
+      "source": "advise",
+      "target": "boost",
+      "value": 0.32
+    },
+    {
+      "source": "advise",
+      "target": "fun",
+      "value": -0.05
+    },
+    {
+      "source": "advise",
+      "target": "diagnosed",
+      "value": -0.17
+    },
+    {
+      "source": "advise",
+      "target": "labled",
+      "value": -0.32
+    },
+    {
+      "source": "advise",
+      "target": "<num>",
+      "value": -0.07
+    },
+    {
+      "source": "advise",
+      "target": "specified",
+      "value": -0.13
+    },
+    {
+      "source": "advise",
+      "target": "pasture",
+      "value": -0.28
+    },
+    {
+      "source": "advise",
+      "target": "ecology",
+      "value": 0.16
+    },
+    {
+      "source": "advise",
+      "target": "rejected",
+      "value": 0.07
+    },
+    {
+      "source": "advise",
+      "target": "goorganic",
+      "value": 0.27
+    },
+    {
+      "source": "advise",
+      "target": "herbicide",
+      "value": -0.16
+    },
+    {
+      "source": "advise",
+      "target": "alleged",
+      "value": -0.07
+    },
+    {
+      "source": "advise",
+      "target": "onto",
+      "value": 0.23
+    },
+    {
+      "source": "advise",
+      "target": "butter",
+      "value": -0.14
+    },
+    {
+      "source": "owned",
+      "target": "buy",
+      "value": -0.21
+    },
+    {
+      "source": "owned",
+      "target": "monsantos",
+      "value": 0.39
+    },
+    {
+      "source": "owned",
+      "target": "hypocritical",
+      "value": -0.39
+    },
+    {
+      "source": "owned",
+      "target": "heck",
+      "value": 0.35
+    },
+    {
+      "source": "owned",
+      "target": "boost",
+      "value": -0.27
+    },
+    {
+      "source": "owned",
+      "target": "fun",
+      "value": -0.05
+    },
+    {
+      "source": "owned",
+      "target": "diagnosed",
+      "value": -0.22
+    },
+    {
+      "source": "owned",
+      "target": "labled",
+      "value": 0.05
+    },
+    {
+      "source": "owned",
+      "target": "<num>",
+      "value": 0.31
+    },
+    {
+      "source": "owned",
+      "target": "specified",
+      "value": 0.32
+    },
+    {
+      "source": "owned",
+      "target": "pasture",
+      "value": -0.01
+    },
+    {
+      "source": "owned",
+      "target": "ecology",
+      "value": -0.12
+    },
+    {
+      "source": "owned",
+      "target": "rejected",
+      "value": 0.08
+    },
+    {
+      "source": "owned",
+      "target": "goorganic",
+      "value": -0.23
+    },
+    {
+      "source": "owned",
+      "target": "herbicide",
+      "value": -0.16
+    },
+    {
+      "source": "owned",
+      "target": "alleged",
+      "value": 0.19
+    },
+    {
+      "source": "owned",
+      "target": "onto",
+      "value": -0.43
+    },
+    {
+      "source": "owned",
+      "target": "butter",
+      "value": -0.16
+    },
+    {
+      "source": "owned",
+      "target": "advise",
+      "value": -0.15
+    }
+  ]
+}
