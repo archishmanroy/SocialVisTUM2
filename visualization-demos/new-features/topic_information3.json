@@ -3,79 +3,79 @@
     {
       "distances": [
         {
-          "distance": "0.03262961",
+          "distance": "-0.35550729346964194",
           "word": "monsantos"
         },
         {
-          "distance": "0.045028057",
+          "distance": "0.059631472930931635",
           "word": "hypocritical"
         },
         {
-          "distance": "0.06308174",
+          "distance": "-0.16466756081447384",
           "word": "heck"
         },
         {
-          "distance": "0.056884587",
+          "distance": "0.16064637458720912",
           "word": "boost"
         },
         {
-          "distance": "0.055918567",
+          "distance": "-0.12079702796977035",
           "word": "fun"
         },
         {
-          "distance": "0.049932826",
+          "distance": "-0.04805343560648552",
           "word": "diagnosed"
         },
         {
-          "distance": "0.04477327",
+          "distance": "-0.07806421573395857",
           "word": "labled"
         },
         {
-          "distance": "0.05233304",
+          "distance": "-0.1806178916271375",
           "word": "<num>"
         },
         {
-          "distance": "0.05761508",
+          "distance": "-0.3393162361346677",
           "word": "specified"
         },
         {
-          "distance": "0.048370276",
+          "distance": "-0.04468698534993675",
           "word": "pasture"
         },
         {
-          "distance": "0.05169419",
+          "distance": "-0.07386515219821617",
           "word": "ecology"
         },
         {
-          "distance": "0.03727896",
+          "distance": "-0.13100082630525126",
           "word": "rejected"
         },
         {
-          "distance": "0.03965263",
+          "distance": "0.16530984151056616",
           "word": "goorganic"
         },
         {
-          "distance": "0.054342628",
+          "distance": "0.05141883734693962",
           "word": "herbicide"
         },
         {
-          "distance": "0.046605587",
+          "distance": "-0.42024791743085305",
           "word": "alleged"
         },
         {
-          "distance": "0.05001607",
+          "distance": "0.31131519511950867",
           "word": "onto"
         },
         {
-          "distance": "0.055982832",
+          "distance": "0.12253915532186938",
           "word": "butter"
         },
         {
-          "distance": "0.043897837",
+          "distance": "0.10491233896244954",
           "word": "advise"
         },
         {
-          "distance": "0.04430704",
+          "distance": "-0.2145499419738167",
           "word": "owned"
         }
       ],
@@ -176,84 +176,84 @@
           "word": "also"
         }
       ],
-      "sentiment": 0.38847083327641785
+      "sentiment": 0.38847081579290227
     },
     {
       "distances": [
         {
-          "distance": "0.07700076",
+          "distance": "-0.35550729346964194",
           "word": "buy"
         },
         {
-          "distance": "0.048504185",
+          "distance": "-0.38943204675057846",
           "word": "hypocritical"
         },
         {
-          "distance": "0.052962903",
+          "distance": "0.36912728427248115",
           "word": "heck"
         },
         {
-          "distance": "0.06626721",
+          "distance": "-0.5966157471584982",
           "word": "boost"
         },
         {
-          "distance": "0.04833256",
+          "distance": "-0.03801933904082983",
           "word": "fun"
         },
         {
-          "distance": "0.04820771",
+          "distance": "-0.06678694525194111",
           "word": "diagnosed"
         },
         {
-          "distance": "0.03557078",
+          "distance": "0.4342577791342237",
           "word": "labled"
         },
         {
-          "distance": "0.056086686",
+          "distance": "0.31352622763220844",
           "word": "<num>"
         },
         {
-          "distance": "0.06329626",
+          "distance": "0.2747423845148092",
           "word": "specified"
         },
         {
-          "distance": "0.04878247",
+          "distance": "0.14492883725799882",
           "word": "pasture"
         },
         {
-          "distance": "0.04394651",
+          "distance": "-0.23761544053287134",
           "word": "ecology"
         },
         {
-          "distance": "0.033988778",
+          "distance": "-0.01912311832380009",
           "word": "rejected"
         },
         {
-          "distance": "0.037877426",
+          "distance": "-0.4944478991688362",
           "word": "goorganic"
         },
         {
-          "distance": "0.0670233",
+          "distance": "-0.008307839870083203",
           "word": "herbicide"
         },
         {
-          "distance": "0.054554462",
+          "distance": "0.30579287361338675",
           "word": "alleged"
         },
         {
-          "distance": "0.046378978",
+          "distance": "-0.5918590764999156",
           "word": "onto"
         },
         {
-          "distance": "0.04588756",
+          "distance": "-0.09088376684898572",
           "word": "butter"
         },
         {
-          "distance": "0.047561865",
+          "distance": "-0.3589666444177484",
           "word": "advise"
         },
         {
-          "distance": "0.047031414",
+          "distance": "0.38504444686622435",
           "word": "owned"
         }
       ],
@@ -279,27 +279,27 @@
         },
         {
           "rank": 5,
-          "sentence": "Just drink organic and in moderation.you will be fine no matter which one."
+          "sentence": "When did foods w/o genetically modified DNA or grown w/ poisons become a \"fad\"?"
         },
         {
           "rank": 6,
-          "sentence": "I shop regularly at Whole Foods because the supermarket options in Manhattan generally range from gross to horri for your information ng in terms of quality, price, selection and service, while at Whole Foods EVERY employee I meet there is pleasant, helpful, and most important to me, intelligent and efficient at their jobs."
-        },
-        {
-          "rank": 7,
-          "sentence": "Organic farms do not refuse antibiotics to sick animals, they just do not do routine \"preventative\" antibiotics, and have less need for them because animals are kept in better conditions."
-        },
-        {
-          "rank": 8,
           "sentence": "So you are safe in assuming that it is all \"organic\"."
         },
         {
-          "rank": 9,
+          "rank": 7,
           "sentence": "South Africa has been growing GM crops since 1999 and consumers have been largely unaware that their staple food, maize, has been genetically modified."
         },
         {
+          "rank": 8,
+          "sentence": "Just drink organic and in moderation.you will be fine no matter which one."
+        },
+        {
+          "rank": 9,
+          "sentence": "I shop regularly at Whole Foods because the supermarket options in Manhattan generally range from gross to horri for your information ng in terms of quality, price, selection and service, while at Whole Foods EVERY employee I meet there is pleasant, helpful, and most important to me, intelligent and efficient at their jobs."
+        },
+        {
           "rank": 10,
-          "sentence": "When did foods w/o genetically modified DNA or grown w/ poisons become a \"fad\"?"
+          "sentence": "Organic farms do not refuse antibiotics to sick animals, they just do not do routine \"preventative\" antibiotics, and have less need for them because animals are kept in better conditions."
         }
       ],
       "words": [
@@ -354,84 +354,84 @@
           "word": "gee"
         }
       ],
-      "sentiment": 0.6552575753968326
+      "sentiment": 0.6552575181040581
     },
     {
       "distances": [
         {
-          "distance": "0.053941716",
+          "distance": "0.059631472930931635",
           "word": "buy"
         },
         {
-          "distance": "0.046619006",
+          "distance": "-0.38943204675057846",
           "word": "monsantos"
         },
         {
-          "distance": "0.058590643",
+          "distance": "-0.33079064489806725",
           "word": "heck"
         },
         {
-          "distance": "0.05596034",
+          "distance": "0.3142667224450646",
           "word": "boost"
         },
         {
-          "distance": "0.059451245",
+          "distance": "0.24072732954675902",
           "word": "fun"
         },
         {
-          "distance": "0.08079644",
+          "distance": "-0.202954867526896",
           "word": "diagnosed"
         },
         {
-          "distance": "0.04699425",
+          "distance": "-0.3104113660998256",
           "word": "labled"
         },
         {
-          "distance": "0.04164242",
+          "distance": "-0.16012477468985442",
           "word": "<num>"
         },
         {
-          "distance": "0.05422071",
+          "distance": "-0.2919381302987476",
           "word": "specified"
         },
         {
-          "distance": "0.038533967",
+          "distance": "-0.2972145276205594",
           "word": "pasture"
         },
         {
-          "distance": "0.05510731",
+          "distance": "0.17387530544521543",
           "word": "ecology"
         },
         {
-          "distance": "0.049040847",
+          "distance": "-0.1162971490217452",
           "word": "rejected"
         },
         {
-          "distance": "0.04952628",
+          "distance": "0.3567592796554135",
           "word": "goorganic"
         },
         {
-          "distance": "0.051991742",
+          "distance": "-0.24125416644795042",
           "word": "herbicide"
         },
         {
-          "distance": "0.046741772",
+          "distance": "-0.041221708142266986",
           "word": "alleged"
         },
         {
-          "distance": "0.029294936",
+          "distance": "0.3929677857834294",
           "word": "onto"
         },
         {
-          "distance": "0.043281578",
+          "distance": "-0.02451434936623929",
           "word": "butter"
         },
         {
-          "distance": "0.0543057",
+          "distance": "0.24891747627413496",
           "word": "advise"
         },
         {
-          "distance": "0.032711357",
+          "distance": "-0.38974982843847134",
           "word": "owned"
         }
       ],
@@ -532,84 +532,84 @@
           "word": "simplistic"
         }
       ],
-      "sentiment": 0.806226375189594
+      "sentiment": 0.8062263889634176
     },
     {
       "distances": [
         {
-          "distance": "0.062447704",
+          "distance": "-0.16466756081447384",
           "word": "buy"
         },
         {
-          "distance": "0.06481693",
+          "distance": "0.36912728427248115",
           "word": "monsantos"
         },
         {
-          "distance": "0.051838078",
+          "distance": "-0.33079064489806725",
           "word": "hypocritical"
         },
         {
-          "distance": "0.04902857",
+          "distance": "-0.3799100233633392",
           "word": "boost"
         },
         {
-          "distance": "0.04965849",
+          "distance": "0.20107755263690474",
           "word": "fun"
         },
         {
-          "distance": "0.03827726",
+          "distance": "0.0009378685619874835",
           "word": "diagnosed"
         },
         {
-          "distance": "0.052354354",
+          "distance": "0.1076940064294638",
           "word": "labled"
         },
         {
-          "distance": "0.033617664",
+          "distance": "-0.011963745497164814",
           "word": "<num>"
         },
         {
-          "distance": "0.04738979",
+          "distance": "0.23155519695707558",
           "word": "specified"
         },
         {
-          "distance": "0.047287207",
+          "distance": "0.04732787635102506",
           "word": "pasture"
         },
         {
-          "distance": "0.05881607",
+          "distance": "-0.22522868824142644",
           "word": "ecology"
         },
         {
-          "distance": "0.03911065",
+          "distance": "0.1663653184235245",
           "word": "rejected"
         },
         {
-          "distance": "0.039336156",
+          "distance": "-0.37213489120292387",
           "word": "goorganic"
         },
         {
-          "distance": "0.053486757",
+          "distance": "-0.17558018525537242",
           "word": "herbicide"
         },
         {
-          "distance": "0.048782896",
+          "distance": "0.05554504318155401",
           "word": "alleged"
         },
         {
-          "distance": "0.048539013",
+          "distance": "-0.42053487928163397",
           "word": "onto"
         },
         {
-          "distance": "0.0550706",
+          "distance": "-0.06781394947542828",
           "word": "butter"
         },
         {
-          "distance": "0.045734998",
+          "distance": "-0.265939132185683",
           "word": "advise"
         },
         {
-          "distance": "0.052018467",
+          "distance": "0.34748433528500633",
           "word": "owned"
         }
       ],
@@ -710,84 +710,84 @@
           "word": "max"
         }
       ],
-      "sentiment": 0.09251337331927183
+      "sentiment": 0.09251331469180003
     },
     {
       "distances": [
         {
-          "distance": "0.061924033",
+          "distance": "0.16064637458720912",
           "word": "buy"
         },
         {
-          "distance": "0.03794954",
+          "distance": "-0.5966157471584982",
           "word": "monsantos"
         },
         {
-          "distance": "0.042410437",
+          "distance": "0.3142667224450646",
           "word": "hypocritical"
         },
         {
-          "distance": "0.05342863",
+          "distance": "-0.3799100233633392",
           "word": "heck"
         },
         {
-          "distance": "0.066485144",
+          "distance": "0.1064314992278388",
           "word": "fun"
         },
         {
-          "distance": "0.05878295",
+          "distance": "-0.003396480849241112",
           "word": "diagnosed"
         },
         {
-          "distance": "0.029339576",
+          "distance": "-0.5620918836969166",
           "word": "labled"
         },
         {
-          "distance": "0.040866785",
+          "distance": "-0.2637867751868698",
           "word": "<num>"
         },
         {
-          "distance": "0.05369098",
+          "distance": "-0.268794028986039",
           "word": "specified"
         },
         {
-          "distance": "0.042868707",
+          "distance": "-0.2928435027725651",
           "word": "pasture"
         },
         {
-          "distance": "0.04537942",
+          "distance": "0.1883463505234374",
           "word": "ecology"
         },
         {
-          "distance": "0.042490188",
+          "distance": "0.09914462941889574",
           "word": "rejected"
         },
         {
-          "distance": "0.055858742",
+          "distance": "0.38897049940218753",
           "word": "goorganic"
         },
         {
-          "distance": "0.056402445",
+          "distance": "-0.2540990342811387",
           "word": "herbicide"
         },
         {
-          "distance": "0.05301063",
+          "distance": "-0.2873253377718465",
           "word": "alleged"
         },
         {
-          "distance": "0.046462223",
+          "distance": "0.5507654916045798",
           "word": "onto"
         },
         {
-          "distance": "0.052557364",
+          "distance": "0.001647142686297305",
           "word": "butter"
         },
         {
-          "distance": "0.059767492",
+          "distance": "0.32125566955635587",
           "word": "advise"
         },
         {
-          "distance": "0.046949007",
+          "distance": "-0.2740198720194825",
           "word": "owned"
         }
       ],
@@ -888,84 +888,84 @@
           "word": "decreasing"
         }
       ],
-      "sentiment": 0.23816840696881383
+      "sentiment": 0.23816843048824315
     },
     {
       "distances": [
         {
-          "distance": "0.061974198",
+          "distance": "-0.12079702796977035",
           "word": "buy"
         },
         {
-          "distance": "0.033458613",
+          "distance": "-0.03801933904082983",
           "word": "monsantos"
         },
         {
-          "distance": "0.057597436",
+          "distance": "0.24072732954675902",
           "word": "hypocritical"
         },
         {
-          "distance": "0.059269954",
+          "distance": "0.20107755263690474",
           "word": "heck"
         },
         {
-          "distance": "0.051154",
+          "distance": "0.1064314992278388",
           "word": "boost"
         },
         {
-          "distance": "0.09670068",
+          "distance": "0.026593586137438074",
           "word": "diagnosed"
         },
         {
-          "distance": "0.03279943",
+          "distance": "-0.3642695255930918",
           "word": "labled"
         },
         {
-          "distance": "0.055133477",
+          "distance": "-0.11186221792924193",
           "word": "<num>"
         },
         {
-          "distance": "0.027232008",
+          "distance": "-0.08796667483930683",
           "word": "specified"
         },
         {
-          "distance": "0.048023846",
+          "distance": "-0.24669503848760094",
           "word": "pasture"
         },
         {
-          "distance": "0.042954817",
+          "distance": "-0.10486315249516129",
           "word": "ecology"
         },
         {
-          "distance": "0.035523605",
+          "distance": "0.1571853176581773",
           "word": "rejected"
         },
         {
-          "distance": "0.0315473",
+          "distance": "-0.02815476580187901",
           "word": "goorganic"
         },
         {
-          "distance": "0.036096632",
+          "distance": "-0.4332019447523463",
           "word": "herbicide"
         },
         {
-          "distance": "0.073797725",
+          "distance": "-0.02365233233930113",
           "word": "alleged"
         },
         {
-          "distance": "0.043001175",
+          "distance": "0.11392935324498252",
           "word": "onto"
         },
         {
-          "distance": "0.050591785",
+          "distance": "-0.09381312105544733",
           "word": "butter"
         },
         {
-          "distance": "0.036974363",
+          "distance": "-0.054346755748710986",
           "word": "advise"
         },
         {
-          "distance": "0.05320449",
+          "distance": "-0.05161350957184056",
           "word": "owned"
         }
       ],
@@ -1066,84 +1066,84 @@
           "word": "wonderful"
         }
       ],
-      "sentiment": 0.9593706087853713
+      "sentiment": 0.9593706125483848
     },
     {
       "distances": [
         {
-          "distance": "0.05738692",
+          "distance": "-0.04805343560648552",
           "word": "buy"
         },
         {
-          "distance": "0.026798118",
+          "distance": "-0.06678694525194111",
           "word": "monsantos"
         },
         {
-          "distance": "0.057120964",
+          "distance": "-0.202954867526896",
           "word": "hypocritical"
         },
         {
-          "distance": "0.059327852",
+          "distance": "0.0009378685619874835",
           "word": "heck"
         },
         {
-          "distance": "0.049963776",
+          "distance": "-0.003396480849241112",
           "word": "boost"
         },
         {
-          "distance": "0.064590335",
+          "distance": "0.026593586137438074",
           "word": "fun"
         },
         {
-          "distance": "0.038542334",
+          "distance": "0.011093673663686621",
           "word": "labled"
         },
         {
-          "distance": "0.046729356",
+          "distance": "-0.20235564373640258",
           "word": "<num>"
         },
         {
-          "distance": "0.0718873",
+          "distance": "-0.015220899348389758",
           "word": "specified"
         },
         {
-          "distance": "0.027997594",
+          "distance": "0.10404902544813927",
           "word": "pasture"
         },
         {
-          "distance": "0.054263826",
+          "distance": "-0.14704108726484913",
           "word": "ecology"
         },
         {
-          "distance": "0.052448545",
+          "distance": "0.09690158120289534",
           "word": "rejected"
         },
         {
-          "distance": "0.038424257",
+          "distance": "-0.2504223094110118",
           "word": "goorganic"
         },
         {
-          "distance": "0.057021827",
+          "distance": "0.2092476340552502",
           "word": "herbicide"
         },
         {
-          "distance": "0.059627637",
+          "distance": "0.01853340111918016",
           "word": "alleged"
         },
         {
-          "distance": "0.040399767",
+          "distance": "-0.06532279460251916",
           "word": "onto"
         },
         {
-          "distance": "0.057929363",
+          "distance": "-0.06471064377627331",
           "word": "butter"
         },
         {
-          "distance": "0.041304257",
+          "distance": "-0.16946950577731035",
           "word": "advise"
         },
         {
-          "distance": "0.045956258",
+          "distance": "-0.2196165921751988",
           "word": "owned"
         }
       ],
@@ -1244,84 +1244,84 @@
           "word": "illness"
         }
       ],
-      "sentiment": 0.8578434833958914
+      "sentiment": 0.8578434689660428
     },
     {
       "distances": [
         {
-          "distance": "0.08109536",
+          "distance": "-0.07806421573395857",
           "word": "buy"
         },
         {
-          "distance": "0.0537272",
+          "distance": "0.4342577791342237",
           "word": "monsantos"
         },
         {
-          "distance": "0.05953021",
+          "distance": "-0.3104113660998256",
           "word": "hypocritical"
         },
         {
-          "distance": "0.028158376",
+          "distance": "0.1076940064294638",
           "word": "heck"
         },
         {
-          "distance": "0.045560934",
+          "distance": "-0.5620918836969166",
           "word": "boost"
         },
         {
-          "distance": "0.036026392",
+          "distance": "-0.3642695255930918",
           "word": "fun"
         },
         {
-          "distance": "0.066775054",
+          "distance": "0.011093673663686621",
           "word": "diagnosed"
         },
         {
-          "distance": "0.03702767",
+          "distance": "0.08914801709020911",
           "word": "<num>"
         },
         {
-          "distance": "0.050759763",
+          "distance": "0.17278027443879168",
           "word": "specified"
         },
         {
-          "distance": "0.07011464",
+          "distance": "0.3308805506245003",
           "word": "pasture"
         },
         {
-          "distance": "0.032237004",
+          "distance": "-0.21044520037512826",
           "word": "ecology"
         },
         {
-          "distance": "0.057148196",
+          "distance": "-0.33878947256140735",
           "word": "rejected"
         },
         {
-          "distance": "0.046562865",
+          "distance": "-0.4483572768826271",
           "word": "goorganic"
         },
         {
-          "distance": "0.06869185",
+          "distance": "0.40640240725292304",
           "word": "herbicide"
         },
         {
-          "distance": "0.044745862",
+          "distance": "0.057311256351490064",
           "word": "alleged"
         },
         {
-          "distance": "0.035059568",
+          "distance": "-0.45493857564663615",
           "word": "onto"
         },
         {
-          "distance": "0.08529699",
+          "distance": "0.09460669419170427",
           "word": "butter"
         },
         {
-          "distance": "0.03491822",
+          "distance": "-0.32469150218843384",
           "word": "advise"
         },
         {
-          "distance": "0.025117926",
+          "distance": "0.0548469654651553",
           "word": "owned"
         }
       ],
@@ -1422,84 +1422,84 @@
           "word": "cafo"
         }
       ],
-      "sentiment": 0.4813035212642792
+      "sentiment": 0.48130351224831575
     },
     {
       "distances": [
         {
-          "distance": "0.060560763",
+          "distance": "-0.1806178916271375",
           "word": "buy"
         },
         {
-          "distance": "0.03982757",
+          "distance": "0.31352622763220844",
           "word": "monsantos"
         },
         {
-          "distance": "0.020093521",
+          "distance": "-0.16012477468985442",
           "word": "hypocritical"
         },
         {
-          "distance": "0.041677866",
+          "distance": "-0.011963745497164814",
           "word": "heck"
         },
         {
-          "distance": "0.0490699",
+          "distance": "-0.2637867751868698",
           "word": "boost"
         },
         {
-          "distance": "0.048710547",
+          "distance": "-0.11186221792924193",
           "word": "fun"
         },
         {
-          "distance": "0.05101308",
+          "distance": "-0.20235564373640258",
           "word": "diagnosed"
         },
         {
-          "distance": "0.034335233",
+          "distance": "0.08914801709020911",
           "word": "labled"
         },
         {
-          "distance": "0.05357651",
+          "distance": "0.07622957476896164",
           "word": "specified"
         },
         {
-          "distance": "0.06785845",
+          "distance": "0.07560931749755613",
           "word": "pasture"
         },
         {
-          "distance": "0.047705103",
+          "distance": "-0.0880411111926313",
           "word": "ecology"
         },
         {
-          "distance": "0.0788112",
+          "distance": "-0.160761019073245",
           "word": "rejected"
         },
         {
-          "distance": "0.046610437",
+          "distance": "-0.08415357564015578",
           "word": "goorganic"
         },
         {
-          "distance": "0.04198562",
+          "distance": "-0.08552143943923662",
           "word": "herbicide"
         },
         {
-          "distance": "0.095776305",
+          "distance": "0.18883481042454928",
           "word": "alleged"
         },
         {
-          "distance": "0.044393238",
+          "distance": "-0.3623168839224655",
           "word": "onto"
         },
         {
-          "distance": "0.048048314",
+          "distance": "-0.07340210358996124",
           "word": "butter"
         },
         {
-          "distance": "0.025186779",
+          "distance": "-0.07178231955030479",
           "word": "advise"
         },
         {
-          "distance": "0.056763887",
+          "distance": "0.30607154461275093",
           "word": "owned"
         }
       ],
@@ -1600,84 +1600,84 @@
           "word": "lower"
         }
       ],
-      "sentiment": 0.07636722250535975
+      "sentiment": 0.07636723283742372
     },
     {
       "distances": [
         {
-          "distance": "0.054109715",
+          "distance": "-0.3393162361346677",
           "word": "buy"
         },
         {
-          "distance": "0.038727842",
+          "distance": "0.2747423845148092",
           "word": "monsantos"
         },
         {
-          "distance": "0.036365844",
+          "distance": "-0.2919381302987476",
           "word": "hypocritical"
         },
         {
-          "distance": "0.060915537",
+          "distance": "0.23155519695707558",
           "word": "heck"
         },
         {
-          "distance": "0.054818098",
+          "distance": "-0.268794028986039",
           "word": "boost"
         },
         {
-          "distance": "0.06702611",
+          "distance": "-0.08796667483930683",
           "word": "fun"
         },
         {
-          "distance": "0.04870387",
+          "distance": "-0.015220899348389758",
           "word": "diagnosed"
         },
         {
-          "distance": "0.028147666",
+          "distance": "0.17278027443879168",
           "word": "labled"
         },
         {
-          "distance": "0.04847219",
+          "distance": "0.07622957476896164",
           "word": "<num>"
         },
         {
-          "distance": "0.035262723",
+          "distance": "-0.016599358817174267",
           "word": "pasture"
         },
         {
-          "distance": "0.047130086",
+          "distance": "0.038101218932652836",
           "word": "ecology"
         },
         {
-          "distance": "0.06320701",
+          "distance": "0.17470614028807913",
           "word": "rejected"
         },
         {
-          "distance": "0.05057931",
+          "distance": "-0.4086790564447474",
           "word": "goorganic"
         },
         {
-          "distance": "0.05295584",
+          "distance": "0.14076062613299956",
           "word": "herbicide"
         },
         {
-          "distance": "0.059941325",
+          "distance": "0.19415264582581246",
           "word": "alleged"
         },
         {
-          "distance": "0.048169684",
+          "distance": "-0.5083541166996408",
           "word": "onto"
         },
         {
-          "distance": "0.049440827",
+          "distance": "-0.3068574766629087",
           "word": "butter"
         },
         {
-          "distance": "0.0502412",
+          "distance": "-0.12519388309238322",
           "word": "advise"
         },
         {
-          "distance": "0.05074234",
+          "distance": "0.31592027655291427",
           "word": "owned"
         }
       ],
@@ -1783,79 +1783,79 @@
     {
       "distances": [
         {
-          "distance": "0.06476692",
+          "distance": "-0.04468698534993675",
           "word": "buy"
         },
         {
-          "distance": "0.0345118",
+          "distance": "0.14492883725799882",
           "word": "monsantos"
         },
         {
-          "distance": "0.04225703",
+          "distance": "-0.2972145276205594",
           "word": "hypocritical"
         },
         {
-          "distance": "0.05429626",
+          "distance": "0.04732787635102506",
           "word": "heck"
         },
         {
-          "distance": "0.04891484",
+          "distance": "-0.2928435027725651",
           "word": "boost"
         },
         {
-          "distance": "0.06870611",
+          "distance": "-0.24669503848760094",
           "word": "fun"
         },
         {
-          "distance": "0.07170078",
+          "distance": "0.10404902544813927",
           "word": "diagnosed"
         },
         {
-          "distance": "0.041175786",
+          "distance": "0.3308805506245003",
           "word": "labled"
         },
         {
-          "distance": "0.03849733",
+          "distance": "0.07560931749755613",
           "word": "<num>"
         },
         {
-          "distance": "0.04596695",
+          "distance": "-0.016599358817174267",
           "word": "specified"
         },
         {
-          "distance": "0.05587474",
+          "distance": "-0.21061636493524322",
           "word": "ecology"
         },
         {
-          "distance": "0.04001008",
+          "distance": "-0.24492115977536766",
           "word": "rejected"
         },
         {
-          "distance": "0.03786111",
+          "distance": "-0.23063564600553935",
           "word": "goorganic"
         },
         {
-          "distance": "0.04293066",
+          "distance": "0.23627159806223488",
           "word": "herbicide"
         },
         {
-          "distance": "0.048560053",
+          "distance": "-0.09831464352292195",
           "word": "alleged"
         },
         {
-          "distance": "0.046816133",
+          "distance": "-0.2543072009246083",
           "word": "onto"
         },
         {
-          "distance": "0.05387415",
+          "distance": "0.13949644706916364",
           "word": "butter"
         },
         {
-          "distance": "0.05676092",
+          "distance": "-0.2764201716710399",
           "word": "advise"
         },
         {
-          "distance": "0.051247917",
+          "distance": "-0.00894286640192399",
           "word": "owned"
         }
       ],
@@ -1897,11 +1897,11 @@
         },
         {
           "rank": 9,
-          "sentence": "Most Americans will have to import their food for at least 3 months out of the year, and often more, unless they go to extraordinary efforts to preserve foods (which means not eating fresh foods for months at a time)."
+          "sentence": "Our food products are doused in it!!"
         },
         {
           "rank": 10,
-          "sentence": "When I see USDA Organic, I used to run."
+          "sentence": "Buying and eating any food is a game of trust."
         }
       ],
       "words": [
@@ -1956,84 +1956,84 @@
           "word": "grassland"
         }
       ],
-      "sentiment": 0.4787051205860189
+      "sentiment": 0.6285854574733114
     },
     {
       "distances": [
         {
-          "distance": "0.05901816",
+          "distance": "-0.07386515219821617",
           "word": "buy"
         },
         {
-          "distance": "0.04055359",
+          "distance": "-0.23761544053287134",
           "word": "monsantos"
         },
         {
-          "distance": "0.05377094",
+          "distance": "0.17387530544521543",
           "word": "hypocritical"
         },
         {
-          "distance": "0.045567278",
+          "distance": "-0.22522868824142644",
           "word": "heck"
         },
         {
-          "distance": "0.05685138",
+          "distance": "0.1883463505234374",
           "word": "boost"
         },
         {
-          "distance": "0.050665762",
+          "distance": "-0.10486315249516129",
           "word": "fun"
         },
         {
-          "distance": "0.033447582",
+          "distance": "-0.14704108726484913",
           "word": "diagnosed"
         },
         {
-          "distance": "0.037160013",
+          "distance": "-0.21044520037512826",
           "word": "labled"
         },
         {
-          "distance": "0.057897396",
+          "distance": "-0.0880411111926313",
           "word": "<num>"
         },
         {
-          "distance": "0.04649658",
+          "distance": "0.038101218932652836",
           "word": "specified"
         },
         {
-          "distance": "0.049665198",
+          "distance": "-0.21061636493524322",
           "word": "pasture"
         },
         {
-          "distance": "0.040557563",
+          "distance": "0.10869948359596147",
           "word": "rejected"
         },
         {
-          "distance": "0.049294975",
+          "distance": "0.17142346751107704",
           "word": "goorganic"
         },
         {
-          "distance": "0.05569202",
+          "distance": "-0.04399979976176391",
           "word": "herbicide"
         },
         {
-          "distance": "0.05787409",
+          "distance": "-0.0014893782750157285",
           "word": "alleged"
         },
         {
-          "distance": "0.035030115",
+          "distance": "0.0849191070117026",
           "word": "onto"
         },
         {
-          "distance": "0.045530237",
+          "distance": "-0.1776862767088724",
           "word": "butter"
         },
         {
-          "distance": "0.06914538",
+          "distance": "0.15856509929481225",
           "word": "advise"
         },
         {
-          "distance": "0.054834582",
+          "distance": "-0.11754594624736125",
           "word": "owned"
         }
       ],
@@ -2134,84 +2134,84 @@
           "word": "educational"
         }
       ],
-      "sentiment": 0.3308296854029748
+      "sentiment": 0.33082969652018
     },
     {
       "distances": [
         {
-          "distance": "0.061746318",
+          "distance": "-0.13100082630525126",
           "word": "buy"
         },
         {
-          "distance": "0.039676934",
+          "distance": "-0.01912311832380009",
           "word": "monsantos"
         },
         {
-          "distance": "0.074528866",
+          "distance": "-0.1162971490217452",
           "word": "hypocritical"
         },
         {
-          "distance": "0.04182717",
+          "distance": "0.1663653184235245",
           "word": "heck"
         },
         {
-          "distance": "0.05755899",
+          "distance": "0.09914462941889574",
           "word": "boost"
         },
         {
-          "distance": "0.089132614",
+          "distance": "0.1571853176581773",
           "word": "fun"
         },
         {
-          "distance": "0.06369175",
+          "distance": "0.09690158120289534",
           "word": "diagnosed"
         },
         {
-          "distance": "0.029337332",
+          "distance": "-0.33878947256140735",
           "word": "labled"
         },
         {
-          "distance": "0.030960217",
+          "distance": "-0.160761019073245",
           "word": "<num>"
         },
         {
-          "distance": "0.041397177",
+          "distance": "0.17470614028807913",
           "word": "specified"
         },
         {
-          "distance": "0.06469153",
+          "distance": "-0.24492115977536766",
           "word": "pasture"
         },
         {
-          "distance": "0.038658783",
+          "distance": "0.10869948359596147",
           "word": "ecology"
         },
         {
-          "distance": "0.039786484",
+          "distance": "-0.10695178648502339",
           "word": "goorganic"
         },
         {
-          "distance": "0.04049984",
+          "distance": "-0.19176538327407516",
           "word": "herbicide"
         },
         {
-          "distance": "0.05974844",
+          "distance": "0.09485211565602995",
           "word": "alleged"
         },
         {
-          "distance": "0.04609863",
+          "distance": "-0.07366122264776238",
           "word": "onto"
         },
         {
-          "distance": "0.048883963",
+          "distance": "-0.2848711452138437",
           "word": "butter"
         },
         {
-          "distance": "0.03928015",
+          "distance": "0.07483834408765846",
           "word": "advise"
         },
         {
-          "distance": "0.046306785",
+          "distance": "0.0826570502460129",
           "word": "owned"
         }
       ],
@@ -2312,84 +2312,84 @@
           "word": "refused"
         }
       ],
-      "sentiment": 0.8332152164843136
+      "sentiment": 0.8332153259241915
     },
     {
       "distances": [
         {
-          "distance": "0.08193035",
+          "distance": "0.16530984151056616",
           "word": "buy"
         },
         {
-          "distance": "0.04198639",
+          "distance": "-0.4944478991688362",
           "word": "monsantos"
         },
         {
-          "distance": "0.04956531",
+          "distance": "0.3567592796554135",
           "word": "hypocritical"
         },
         {
-          "distance": "0.05426315",
+          "distance": "-0.37213489120292387",
           "word": "heck"
         },
         {
-          "distance": "0.051070277",
+          "distance": "0.38897049940218753",
           "word": "boost"
         },
         {
-          "distance": "0.066505894",
+          "distance": "-0.02815476580187901",
           "word": "fun"
         },
         {
-          "distance": "0.056897603",
+          "distance": "-0.2504223094110118",
           "word": "diagnosed"
         },
         {
-          "distance": "0.04606086",
+          "distance": "-0.4483572768826271",
           "word": "labled"
         },
         {
-          "distance": "0.058773056",
+          "distance": "-0.08415357564015578",
           "word": "<num>"
         },
         {
-          "distance": "0.041357014",
+          "distance": "-0.4086790564447474",
           "word": "specified"
         },
         {
-          "distance": "0.046738323",
+          "distance": "-0.23063564600553935",
           "word": "pasture"
         },
         {
-          "distance": "0.04725069",
+          "distance": "0.17142346751107704",
           "word": "ecology"
         },
         {
-          "distance": "0.039989665",
+          "distance": "-0.10695178648502339",
           "word": "rejected"
         },
         {
-          "distance": "0.04397354",
+          "distance": "-0.21749259804401086",
           "word": "herbicide"
         },
         {
-          "distance": "0.04527684",
+          "distance": "-0.16170025974090396",
           "word": "alleged"
         },
         {
-          "distance": "0.041951817",
+          "distance": "0.515947073646031",
           "word": "onto"
         },
         {
-          "distance": "0.06663816",
+          "distance": "0.1365730787904655",
           "word": "butter"
         },
         {
-          "distance": "0.045300804",
+          "distance": "0.2697289921319846",
           "word": "advise"
         },
         {
-          "distance": "0.042044077",
+          "distance": "-0.22949384977323628",
           "word": "owned"
         }
       ],
@@ -2490,84 +2490,84 @@
           "word": "occurred"
         }
       ],
-      "sentiment": 0.4048078197443636
+      "sentiment": 0.40480793520301844
     },
     {
       "distances": [
         {
-          "distance": "0.05568964",
+          "distance": "0.05141883734693962",
           "word": "buy"
         },
         {
-          "distance": "0.043285143",
+          "distance": "-0.008307839870083203",
           "word": "monsantos"
         },
         {
-          "distance": "0.03965962",
+          "distance": "-0.24125416644795042",
           "word": "hypocritical"
         },
         {
-          "distance": "0.053210706",
+          "distance": "-0.17558018525537242",
           "word": "heck"
         },
         {
-          "distance": "0.07572353",
+          "distance": "-0.2540990342811387",
           "word": "boost"
         },
         {
-          "distance": "0.063735686",
+          "distance": "-0.4332019447523463",
           "word": "fun"
         },
         {
-          "distance": "0.049753927",
+          "distance": "0.2092476340552502",
           "word": "diagnosed"
         },
         {
-          "distance": "0.024200713",
+          "distance": "0.40640240725292304",
           "word": "labled"
         },
         {
-          "distance": "0.053106923",
+          "distance": "-0.08552143943923662",
           "word": "<num>"
         },
         {
-          "distance": "0.06092134",
+          "distance": "0.14076062613299956",
           "word": "specified"
         },
         {
-          "distance": "0.04384512",
+          "distance": "0.23627159806223488",
           "word": "pasture"
         },
         {
-          "distance": "0.046910066",
+          "distance": "-0.04399979976176391",
           "word": "ecology"
         },
         {
-          "distance": "0.050852392",
+          "distance": "-0.19176538327407516",
           "word": "rejected"
         },
         {
-          "distance": "0.034072552",
+          "distance": "-0.21749259804401086",
           "word": "goorganic"
         },
         {
-          "distance": "0.05083447",
+          "distance": "0.027657253538976388",
           "word": "alleged"
         },
         {
-          "distance": "0.047436148",
+          "distance": "-0.1369252184407706",
           "word": "onto"
         },
         {
-          "distance": "0.045174316",
+          "distance": "-0.15897150178967456",
           "word": "butter"
         },
         {
-          "distance": "0.06960244",
+          "distance": "-0.15987913893645658",
           "word": "advise"
         },
         {
-          "distance": "0.0494225",
+          "distance": "-0.1608769710795159",
           "word": "owned"
         }
       ],
@@ -2668,84 +2668,84 @@
           "word": "spraying"
         }
       ],
-      "sentiment": 0.8061049655728136
+      "sentiment": 0.8061049764986811
     },
     {
       "distances": [
         {
-          "distance": "0.07363681",
+          "distance": "-0.42024791743085305",
           "word": "buy"
         },
         {
-          "distance": "0.027877873",
+          "distance": "0.30579287361338675",
           "word": "monsantos"
         },
         {
-          "distance": "0.03404025",
+          "distance": "-0.041221708142266986",
           "word": "hypocritical"
         },
         {
-          "distance": "0.039678846",
+          "distance": "0.05554504318155401",
           "word": "heck"
         },
         {
-          "distance": "0.04793477",
+          "distance": "-0.2873253377718465",
           "word": "boost"
         },
         {
-          "distance": "0.05493152",
+          "distance": "-0.02365233233930113",
           "word": "fun"
         },
         {
-          "distance": "0.070481025",
+          "distance": "0.01853340111918016",
           "word": "diagnosed"
         },
         {
-          "distance": "0.068273604",
+          "distance": "0.057311256351490064",
           "word": "labled"
         },
         {
-          "distance": "0.037879627",
+          "distance": "0.18883481042454928",
           "word": "<num>"
         },
         {
-          "distance": "0.051320802",
+          "distance": "0.19415264582581246",
           "word": "specified"
         },
         {
-          "distance": "0.06893795",
+          "distance": "-0.09831464352292195",
           "word": "pasture"
         },
         {
-          "distance": "0.04688019",
+          "distance": "-0.0014893782750157285",
           "word": "ecology"
         },
         {
-          "distance": "0.03694273",
+          "distance": "0.09485211565602995",
           "word": "rejected"
         },
         {
-          "distance": "0.036737934",
+          "distance": "-0.16170025974090396",
           "word": "goorganic"
         },
         {
-          "distance": "0.07676408",
+          "distance": "0.027657253538976388",
           "word": "herbicide"
         },
         {
-          "distance": "0.05651994",
+          "distance": "-0.3179953494833457",
           "word": "onto"
         },
         {
-          "distance": "0.042903453",
+          "distance": "-0.37687464691428274",
           "word": "butter"
         },
         {
-          "distance": "0.04000713",
+          "distance": "-0.06767168934733479",
           "word": "advise"
         },
         {
-          "distance": "0.037013818",
+          "distance": "0.19223918207069915",
           "word": "owned"
         }
       ],
@@ -2846,84 +2846,84 @@
           "word": "leak"
         }
       ],
-      "sentiment": 0.3516774335667909
+      "sentiment": 0.3516774229728948
     },
     {
       "distances": [
         {
-          "distance": "0.06301921",
+          "distance": "0.31131519511950867",
           "word": "buy"
         },
         {
-          "distance": "0.03128138",
+          "distance": "-0.5918590764999156",
           "word": "monsantos"
         },
         {
-          "distance": "0.041029006",
+          "distance": "0.3929677857834294",
           "word": "hypocritical"
         },
         {
-          "distance": "0.04449481",
+          "distance": "-0.42053487928163397",
           "word": "heck"
         },
         {
-          "distance": "0.059317484",
+          "distance": "0.5507654916045798",
           "word": "boost"
         },
         {
-          "distance": "0.05618686",
+          "distance": "0.11392935324498252",
           "word": "fun"
         },
         {
-          "distance": "0.052687597",
+          "distance": "-0.06532279460251916",
           "word": "diagnosed"
         },
         {
-          "distance": "0.03780885",
+          "distance": "-0.45493857564663615",
           "word": "labled"
         },
         {
-          "distance": "0.050301585",
+          "distance": "-0.3623168839224655",
           "word": "<num>"
         },
         {
-          "distance": "0.066881515",
+          "distance": "-0.5083541166996408",
           "word": "specified"
         },
         {
-          "distance": "0.041075975",
+          "distance": "-0.2543072009246083",
           "word": "pasture"
         },
         {
-          "distance": "0.05148408",
+          "distance": "0.0849191070117026",
           "word": "ecology"
         },
         {
-          "distance": "0.050641857",
+          "distance": "-0.07366122264776238",
           "word": "rejected"
         },
         {
-          "distance": "0.035776403",
+          "distance": "0.515947073646031",
           "word": "goorganic"
         },
         {
-          "distance": "0.053347096",
+          "distance": "-0.1369252184407706",
           "word": "herbicide"
         },
         {
-          "distance": "0.05666735",
+          "distance": "-0.3179953494833457",
           "word": "alleged"
         },
         {
-          "distance": "0.049282346",
+          "distance": "0.15312118820190512",
           "word": "butter"
         },
         {
-          "distance": "0.071857184",
+          "distance": "0.2306504933080858",
           "word": "advise"
         },
         {
-          "distance": "0.042140543",
+          "distance": "-0.4341355203825795",
           "word": "owned"
         }
       ],
@@ -3024,84 +3024,84 @@
           "word": "lawn"
         }
       ],
-      "sentiment": 0.28828477966817956
+      "sentiment": 0.2882847982614277
     },
     {
       "distances": [
         {
-          "distance": "0.065910816",
+          "distance": "0.12253915532186938",
           "word": "buy"
         },
         {
-          "distance": "0.032919504",
+          "distance": "-0.09088376684898572",
           "word": "monsantos"
         },
         {
-          "distance": "0.046659335",
+          "distance": "-0.02451434936623929",
           "word": "hypocritical"
         },
         {
-          "distance": "0.046856027",
+          "distance": "-0.06781394947542828",
           "word": "heck"
         },
         {
-          "distance": "0.06644424",
+          "distance": "0.001647142686297305",
           "word": "boost"
         },
         {
-          "distance": "0.06410317",
+          "distance": "-0.09381312105544733",
           "word": "fun"
         },
         {
-          "distance": "0.06186049",
+          "distance": "-0.06471064377627331",
           "word": "diagnosed"
         },
         {
-          "distance": "0.05326592",
+          "distance": "0.09460669419170427",
           "word": "labled"
         },
         {
-          "distance": "0.044474658",
+          "distance": "-0.07340210358996124",
           "word": "<num>"
         },
         {
-          "distance": "0.06930582",
+          "distance": "-0.3068574766629087",
           "word": "specified"
         },
         {
-          "distance": "0.037014168",
+          "distance": "0.13949644706916364",
           "word": "pasture"
         },
         {
-          "distance": "0.06554969",
+          "distance": "-0.1776862767088724",
           "word": "ecology"
         },
         {
-          "distance": "0.03501895",
+          "distance": "-0.2848711452138437",
           "word": "rejected"
         },
         {
-          "distance": "0.033865687",
+          "distance": "0.1365730787904655",
           "word": "goorganic"
         },
         {
-          "distance": "0.0647335",
+          "distance": "-0.15897150178967456",
           "word": "herbicide"
         },
         {
-          "distance": "0.04307603",
+          "distance": "-0.37687464691428274",
           "word": "alleged"
         },
         {
-          "distance": "0.0313957",
+          "distance": "0.15312118820190512",
           "word": "onto"
         },
         {
-          "distance": "0.054780323",
+          "distance": "-0.14292285260091775",
           "word": "advise"
         },
         {
-          "distance": "0.026813837",
+          "distance": "-0.16160006484103623",
           "word": "owned"
         }
       ],
@@ -3202,84 +3202,84 @@
           "word": "bread"
         }
       ],
-      "sentiment": 0.5804461231011536
+      "sentiment": 0.5804461715962101
     },
     {
       "distances": [
         {
-          "distance": "0.07023195",
+          "distance": "0.10491233896244954",
           "word": "buy"
         },
         {
-          "distance": "0.026754253",
+          "distance": "-0.3589666444177484",
           "word": "monsantos"
         },
         {
-          "distance": "0.045952555",
+          "distance": "0.24891747627413496",
           "word": "hypocritical"
         },
         {
-          "distance": "0.04944199",
+          "distance": "-0.265939132185683",
           "word": "heck"
         },
         {
-          "distance": "0.053279884",
+          "distance": "0.32125566955635587",
           "word": "boost"
         },
         {
-          "distance": "0.06730202",
+          "distance": "-0.054346755748710986",
           "word": "fun"
         },
         {
-          "distance": "0.061566133",
+          "distance": "-0.16946950577731035",
           "word": "diagnosed"
         },
         {
-          "distance": "0.032698374",
+          "distance": "-0.32469150218843384",
           "word": "labled"
         },
         {
-          "distance": "0.046121962",
+          "distance": "-0.07178231955030479",
           "word": "<num>"
         },
         {
-          "distance": "0.055406578",
+          "distance": "-0.12519388309238322",
           "word": "specified"
         },
         {
-          "distance": "0.03783458",
+          "distance": "-0.2764201716710399",
           "word": "pasture"
         },
         {
-          "distance": "0.05111732",
+          "distance": "0.15856509929481225",
           "word": "ecology"
         },
         {
-          "distance": "0.056416746",
+          "distance": "0.07483834408765846",
           "word": "rejected"
         },
         {
-          "distance": "0.049532052",
+          "distance": "0.2697289921319846",
           "word": "goorganic"
         },
         {
-          "distance": "0.059273854",
+          "distance": "-0.15987913893645658",
           "word": "herbicide"
         },
         {
-          "distance": "0.056021746",
+          "distance": "-0.06767168934733479",
           "word": "alleged"
         },
         {
-          "distance": "0.032990217",
+          "distance": "0.2306504933080858",
           "word": "onto"
         },
         {
-          "distance": "0.045786146",
+          "distance": "-0.14292285260091775",
           "word": "butter"
         },
         {
-          "distance": "0.059958566",
+          "distance": "-0.15364901998055847",
           "word": "owned"
         }
       ],
@@ -3385,79 +3385,79 @@
     {
       "distances": [
         {
-          "distance": "0.059612665",
+          "distance": "-0.2145499419738167",
           "word": "buy"
         },
         {
-          "distance": "0.030819768",
+          "distance": "0.38504444686622435",
           "word": "monsantos"
         },
         {
-          "distance": "0.070228174",
+          "distance": "-0.38974982843847134",
           "word": "hypocritical"
         },
         {
-          "distance": "0.04733577",
+          "distance": "0.34748433528500633",
           "word": "heck"
         },
         {
-          "distance": "0.06312854",
+          "distance": "-0.2740198720194825",
           "word": "boost"
         },
         {
-          "distance": "0.071577065",
+          "distance": "-0.05161350957184056",
           "word": "fun"
         },
         {
-          "distance": "0.048048846",
+          "distance": "-0.2196165921751988",
           "word": "diagnosed"
         },
         {
-          "distance": "0.0629967",
+          "distance": "0.0548469654651553",
           "word": "labled"
         },
         {
-          "distance": "0.039203063",
+          "distance": "0.30607154461275093",
           "word": "<num>"
         },
         {
-          "distance": "0.048819177",
+          "distance": "0.31592027655291427",
           "word": "specified"
         },
         {
-          "distance": "0.039588347",
+          "distance": "-0.00894286640192399",
           "word": "pasture"
         },
         {
-          "distance": "0.047064565",
+          "distance": "-0.11754594624736125",
           "word": "ecology"
         },
         {
-          "distance": "0.048758537",
+          "distance": "0.0826570502460129",
           "word": "rejected"
         },
         {
-          "distance": "0.025166925",
+          "distance": "-0.22949384977323628",
           "word": "goorganic"
         },
         {
-          "distance": "0.06045372",
+          "distance": "-0.1608769710795159",
           "word": "herbicide"
         },
         {
-          "distance": "0.060346223",
+          "distance": "0.19223918207069915",
           "word": "alleged"
         },
         {
-          "distance": "0.04048261",
+          "distance": "-0.4341355203825795",
           "word": "onto"
         },
         {
-          "distance": "0.04891215",
+          "distance": "-0.16160006484103623",
           "word": "butter"
         },
         {
-          "distance": "0.041408975",
+          "distance": "-0.15364901998055847",
           "word": "advise"
         }
       ],
@@ -3558,7 +3558,7 @@
           "word": "joined"
         }
       ],
-      "sentiment": 0.38070509306630496
+      "sentiment": 0.38070511534314516
     }
   ],
   "links": [
