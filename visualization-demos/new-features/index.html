@@ -268,7 +268,7 @@
   }
 
   // Load the data, calculate important properties (e.g. number of total occurrences) and filter data based on initial slider values
-  d3.json("topic_information3.json", function (error, _graph) {
+  d3.json("topic_information.json", function (error, _graph) {
     if (error) throw error;
     fullGraph = _graph;
 
@@ -946,6 +946,6 @@
     link.href = makeTextFile(fileContent);
     link.style.display = 'block';
     link.textContent = "Download updated JSON file";
-    link.download = "topic_information3.json";
+    link.download = "topic_information.json";
   }
 </script>
