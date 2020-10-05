@@ -377,7 +377,7 @@
     node = svg.selectAll(".nodes")
       .data(graph.nodes)
       .enter().append("g")
-      .attr("class", "nodes")
+      .attr("class", "nodes");
 
     //hover text style
     var div = d3.select("body").append("div")
@@ -560,79 +560,138 @@
     //0:max Dis 1:min Dis
     var disArray = calculateBoundary();
     var includeNode =[];
+    var currList =[];
+    var maxCorrDict =new Map();
 
+    //initialize corr dict:
+    graph.nodes.forEach(function (currNode){
+      maxCorrDict.set(currNode.id,Number.MIN_VALUE);
+    });
+
+    //start clustering:
     graph.nodes.forEach(function (currNode) {
-      let record = 0;
-      for(var i =0; i<fullGraph.nodes.length - 1; i++){
-        var flag = 0;
-        var check = 0;
-        //whether already occurs in one cluster.
+      // var clusterContainer = document.getElementById("clusterContent");
+      // clusterContainer.innerHTML += "new node : "+ currNode.id +"<br>";
 
-        graph.nodes.forEach(function(item){
-          if(item.id == currNode.distances[i].word){
+      //check which cluster is the curr Node in:
+      var currCluster =0;
+      cluster_list.forEach(function (item,index) {
+        if(item.indexOf(currNode.id)>-1){
+          currCluster =1;
+          currList = item;
+          // var clusterContainer = document.getElementById("clusterContent");
+          // clusterContainer.innerHTML += item + " " +"<br>";
+          // clusterContainer.innerHTML += currNode.id + " " +"<br>";
+          //done: remove that item
+          cluster_list.splice(index, 1);
+        }
+      });
+
+      //currNode not included in existing clusters
+      if (currCluster==0){
+        currList =[];
+      }else{
+
+      }
+
+      for (var i=0; i<fullGraph.nodes.length -1; i++) {
+        //check whether node item is in current nodes list:
+        var check = 0;
+        graph.nodes.forEach(function (item)
+        {
+          if (item.id == currNode.distances[i].word) {
             //check whether node[i] is in current node set
             check = 1;
           }
         });
 
-        var count =1;
-
-        if(check && parseFloat(currNode.distances[i].distance) +1 > (1- 0.01 * forceProperties.distances.distanceThreshold) * (disArray[0])){
-          //if distance < threshold: shold be assigned into the same cluster
-          cluster_list.forEach(function (item){
-            // var clusterContainer = document.getElementById("clusterContent");
-            // clusterContainer.innerHTML += "count1: " + count + "<br>";
-            if(count){
-              // var clusterContainer = document.getElementById("clusterContent");
-              // clusterContainer.innerHTML += "count2: " + count + "<br>";
-              if((item.indexOf(currNode.id)>-1)||(item.indexOf(currNode.distances[i].word)>-1)){
-                if((includeNode.indexOf(currNode.distances[i].word)>-1) && (item.indexOf(currNode.distances[i].word)<0)){
-                  count = 0;
-                  flag=1;
-                  record= 1;
-                }else if((includeNode.indexOf(currNode.id) && (item.indexOf(currNode.id)<0))){
-                  count = 0;
-                  flag=1;
-                  record= 1;
-                } else{
-                  count = 0;
-                  //if word has already in cluster and not in other cluster:
-                  // var clusterContainer = document.getElementById("clusterContent");
-                  // clusterContainer.innerHTML += "add label1  :"+ currNode.id + " " + "asso_label: " + "  " + currNode.distances[i].word + "<br>";
-
-                  record= 1;
-                  flag=1;
-                  item.push(currNode.distances[i].word);
-                  item.push(currNode.id);
-                  includeNode.push(currNode.id);
-                  includeNode.push(currNode.distances[i].word);
+        //should be clustered into the same cluster
+        if(check && parseFloat(currNode.distances[i].distance) +1 > (1- 0.01 * forceProperties.distances.distanceThreshold) * (disArray[0])) {
+          //curr and matching node has maximum corr value:
+          var temp = (currList.indexOf(currNode.distances[i].word) <0) && parseFloat(currNode.distances[i].distance) > parseFloat(maxCorrDict.get(currNode.distances[i].word));
+          if(temp){
+            maxCorrDict.set(currNode.distances[i].word, currNode.distances[i].distance);
+            //whether matching node has already in clusters:
+            if(includeNode.indexOf(currNode.distances[i].word) >-1){
+              //delete original
+              //detect the length of the cluster matching node is in:
+              cluster_list.forEach(function (item,index) {
+                if(item.indexOf(currNode.distances[i].word) >-1){
+                  if(item.length >1){
+                    //check whether all member's corr are larger than threshold
+                    var flag = 0;
+                    item.forEach(function (ele) {
+                      currNode.distances.forEach(function (match){
+                        if(ele == match.word){
+                          if(match.distance +1 < (1- 0.01 * forceProperties.distances.distanceThreshold) * (disArray[0])){
+                            if(match.distance +1 >1){
+                              flag=1;
+                            }
+                          }
+                        }
+                      })
+                    });
+                    //if yes: merge D into current clustering
+                    if(flag ==0){
+                      //duplicate to currList
+                      item.forEach(function (single) {
+                        currList.push(single);
+                      });
+                      //add itself
+                      currList.push(currNode.id);
+                      includeNode.push(currNode.id);
+                      //delete original one from cluster_list
+                      cluster_list.splice(index,1);
+                    }else{
+                      //is no: delete matching node, add to new cluster
+                      item.forEach(function(element, index_sub){
+                        if(element == currNode.distances[i].word){
+                          item.splice(index_sub,1);
+                        }
+                      });
+                      currList.push(currNode.id);
+                      includeNode.push(currNode.id);
+                      currList.push(currNode.distances[i].word);
+                    }
+                  }else{
+                    cluster_list.splice(index,1);
+                    currList.push(currNode.id);
+                    includeNode.push(currNode.id);
+                    currList.push(currNode.distances[i].word);
+                  }
                 }
-              }
+              })
+            }else{
+              //add to current list + include node list
+              includeNode.push(currNode.distances[i].word);
+              currList.push(currNode.id);
+              includeNode.push(currNode.id);
+              currList.push(currNode.distances[i].word);
             }
-          });
-
-          if(flag==0){
-
-            // var clusterContainer = document.getElementById("clusterContent");
-            // clusterContainer.innerHTML += "add cluster : "+ currNode.id + " " + "asso_label: " + "  " + currNode.distances[i].word + "<br>";
-
-            record =1;
-            newSet = [];
-            newSet.push(currNode.id);
-            newSet.push(currNode.distances[i].word);
-            includeNode.push(currNode.id);
-            includeNode.push(currNode.distances[i].word);
-            cluster_list.push(newSet);
+          }else{
+            //next matching item
           }
         }
       }
-      if(record==0){
+
+      //if curr has no matching node close to it.
+      if(currList.length ==0){
+        //no node is close to current node
+
         // var clusterContainer = document.getElementById("clusterContent");
         // clusterContainer.innerHTML += "new cluster : "+ currNode.id +"<br>";
-        newSet = [];
-        newSet.push(currNode.id);
-        cluster_list.push(newSet);
-        includeNode.push(currNode.id);
+        currList.push(currNode.id);
+        cluster_list.push(currList);
+
+        // var clusterContainer = document.getElementById("clusterContent");
+        // clusterContainer.innerHTML += "new cluster : "+ currList +"<br>";
+
+      }else{
+        cluster_list.push(currList);
+        // includeNode.push(currNode.id);
+
+        // var clusterContainer = document.getElementById("clusterContent");
+        // clusterContainer.innerHTML += "new cluster : "+ currList +"<br>";
       }
     });
 
@@ -931,7 +990,7 @@
     makeTextFile = function (text) {
       var data = new Blob([text], { type: "application/json" });
 
-      // Check if we previously generated file. If yes, manually revoke the object URL to avoid memory leaks. 
+      // Check if we previously generated file. If yes, manually revoke the object URL to avoid memory leaks.
       if (textFile !== null) {
         window.URL.revokeObjectURL(textFile);
       }
